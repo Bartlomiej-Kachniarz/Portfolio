@@ -57,7 +57,7 @@ Aumale,4899.0,Valid,L6,50000.0,Fell,1865.0,36.16667,3.66667,"(36.16667, 3.66667)
 Aumieres,4900.0,Valid,L6,2000.0,Fell,1842.0,44.33333,3.23333,"(44.33333, 3.23333)",Metropolitan France,France
 Ausson,4903.0,Valid,L5,50000.0,Fell,1858.0,43.08333,0.58333,"(43.08333, 0.58333)",Metropolitan France,France
 Avanhandava,4905.0,Valid,H4,9330.0,Fell,1952.0,-21.46028,-49.95083,"(-21.46028, -49.95083)",Southeast Region,Brazil
-Avce,4906.0,Valid,"Iron, IIAB",1230.0,Fell,1908.0,46.0,13.5,"(46.0, 13.5)",['Slovenia'],['Slovenia']
+Avce,4906.0,Valid,"Iron, IIAB",1230.0,Fell,1908.0,46.0,13.5,"(46.0, 13.5)",['Slovenia'],Slovenia
 Avilez,4907.0,Valid,H,146.0,Fell,1855.0,25.0,-103.5,"(25.0, -103.5)",Durango,Mexico
 Awere,4910.0,Valid,L4,134.0,Fell,1968.0,2.71667,32.83333,"(2.71667, 32.83333)",Northern Region,Uganda
 Aztec,4913.0,Valid,L6,2830.0,Fell,1938.0,36.8,-108.0,"(36.8, -108.0)",New Mexico,United States
@@ -104,7 +104,7 @@ Beuste,5034.0,Valid,L5,2000.0,Fell,1859.0,43.21667,-0.23333,"(43.21667, -0.23333
 Beyrout,5035.0,Valid,LL3.8,1100.0,Fell,1921.0,33.88333,35.5,"(33.88333, 35.5)",Beirut Governorate,Lebanon
 Bhagur,5037.0,Valid,L6,18.0,Fell,1877.0,20.88333,74.83333,"(20.88333, 74.83333)",Maharashtra,India
 Bhawad,36591.0,Valid,LL6,678.0,Fell,2002.0,26.50833,73.11528,"(26.50833, 73.11528)",Rajasthan,India
-Bherai,5039.0,Valid,L6,100.0,Fell,1893.0,20.83333,71.46667,"(20.83333, 71.46667)",['India'],['India']
+Bherai,5039.0,Valid,L6,100.0,Fell,1893.0,20.83333,71.46667,"(20.83333, 71.46667)",['India'],India
 Bhola,5040.0,Valid,LL3-6,1047.0,Fell,1940.0,22.68333,90.65,"(22.68333, 90.65)",Barishal Division,Bangladesh
 Bholghati,5041.0,Valid,Howardite,2500.0,Fell,1905.0,22.08333,86.9,"(22.08333, 86.9)",Odisha,India
 Bialystok,5042.0,Valid,Eucrite-pmict,4000.0,Fell,1827.0,53.1,23.2,"(53.1, 23.2)",Podlaskie Voivodeship,Poland
@@ -249,9 +249,9 @@ Douar Mghila,7723.0,Valid,LL6,1161.0,Fell,1932.0,32.33333,-6.3,"(32.33333, -6.3)
 Dowa,7725.0,Valid,Stone-uncl,642.0,Fell,1976.0,-13.66667,33.91667,"(-13.66667, 33.91667)",Central Region,Malawi
 Drake Creek,7728.0,Valid,L6,5000.0,Fell,1827.0,36.4,-86.5,"(36.4, -86.5)",Tennessee,United States
 Dresden (Ontario),7731.0,Valid,H6,47700.0,Fell,1939.0,42.52,-82.26,"(42.52, -82.26)",Ontario,Canada
-Dubrovnik,7736.0,Valid,L3-6,1900.0,Fell,1951.0,42.45833,18.44167,"(42.45833, 18.44167)",['Croatia'],['Croatia']
+Dubrovnik,7736.0,Valid,L3-6,1900.0,Fell,1951.0,42.45833,18.44167,"(42.45833, 18.44167)",['Croatia'],Croatia
 Dunbogan,7743.0,Valid,L6,30.0,Fell,1999.0,-31.66667,152.83333,"(-31.66667, 152.83333)",New South Wales,Australia
-Dundrum,7745.0,Valid,H5,2270.0,Fell,1865.0,52.55,-8.03333,"(52.55, -8.03333)",['Ireland'],['Ireland']
+Dundrum,7745.0,Valid,H5,2270.0,Fell,1865.0,52.55,-8.03333,"(52.55, -8.03333)",['Ireland'],Ireland
 Durala,7750.0,Valid,L6,13200.0,Fell,1815.0,30.3,76.63333,"(30.3, 76.63333)",Punjab,India
 Duruma,7752.0,Valid,L6,577.0,Fell,1853.0,-4.0,39.5,"(-4.0, 39.5)",Coastal Kenya,Kenya
 Duwun,7754.0,Valid,L6,2117.0,Fell,1943.0,33.43333,127.26667,"(33.43333, 127.26667)",Sea of Japan,South Corea
@@ -261,7 +261,7 @@ Dyarrl Island,7758.0,Valid,Mesosiderite-A1,188.0,Fell,1933.0,-3.0,151.0,"(-3.0, 
 Eagle,7760.0,Valid,EL6,10000.0,Fell,1947.0,40.78167,-96.47167,"(40.78167, -96.47167)",Nebraska,United States
 Ehole,7774.0,Valid,H5,2400.0,Fell,1961.0,-17.3,15.83333,"(-17.3, 15.83333)",Cunene Province,Angola
 Eichstädt,7775.0,Valid,H5,3000.0,Fell,1785.0,48.9,11.21667,"(48.9, 11.21667)",Bavaria,Germany
-Ekeby,7776.0,Valid,H4,3336.0,Fell,1939.0,56.03333,13.0,"(56.03333, 13.0)",['Sweden'],['Sweden']
+Ekeby,7776.0,Valid,H4,3336.0,Fell,1939.0,56.03333,13.0,"(56.03333, 13.0)",['Sweden'],Sweden
 Ekh Khera,7777.0,Valid,H6,840.0,Fell,1916.0,28.26667,78.78333,"(28.26667, 78.78333)",Uttar Pradesh,India
 El Idrissia,7807.0,Valid,L6,10000.0,Fell,1989.0,34.41667,3.25,"(34.41667, 3.25)",Djelfa,Algeria
 El Paso de Aguila,45977.0,Valid,H5,17226.0,Fell,1977.0,25.37,-97.37,"(25.37, -97.37)",Tamaulipas,Mexico
@@ -322,7 +322,7 @@ Gnadenfrei,10936.0,Valid,H5,1750.0,Fell,1879.0,50.66667,16.76667,"(50.66667, 16.
 Gopalpur,10948.0,Valid,H6,1600.0,Fell,1865.0,24.23333,89.05,"(24.23333, 89.05)",Rajshahi Division,Bangladesh
 Gorlovka,10949.0,Valid,H3.7,3618.0,Fell,1974.0,48.28333,38.08333,"(48.28333, 38.08333)",83000-87999,Ukraine
 Granes,10956.0,Valid,L6,9000.0,Fell,1964.0,42.9,2.25,"(42.9, 2.25)",Metropolitan France,France
-Grefsheim,11196.0,Valid,L5,45.5,Fell,1976.0,60.66667,11.0,"(60.66667, 11.0)",['Norway'],['Norway']
+Grefsheim,11196.0,Valid,L5,45.5,Fell,1976.0,60.66667,11.0,"(60.66667, 11.0)",['Norway'],Norway
 Grimsby,50911.0,Valid,H5,215.0,Fell,2009.0,43.2,-79.61667,"(43.2, -79.61667)",Ontario,Canada
 Grosnaja,11206.0,Valid,CV3,3500.0,Fell,1861.0,43.66667,45.38333,"(43.66667, 45.38333)",North Caucasian Federal District,Russia
 Gross-Divina,11207.0,Valid,H5,10500.0,Fell,1837.0,49.26667,18.71667,"(49.26667, 18.71667)",Central Slovakia,Slovakia
@@ -338,14 +338,14 @@ Guibga,11442.0,Valid,L5,288.0,Fell,1972.0,13.5,-0.68333,"(13.5, -0.68333)",Centr
 Guidder,11443.0,Valid,LL5,968.0,Fell,1949.0,9.91667,13.98333,"(9.91667, 13.98333)",North,Cameroon
 Gujargaon,11448.0,Valid,H5,2449.0,Fell,1982.0,22.98333,76.05,"(22.98333, 76.05)",Madhya Pradesh,India
 Gujba,11449.0,Valid,CBa,100000.0,Fell,1984.0,11.49167,11.65833,"(11.49167, 11.65833)",Yobe,Nigeria
-Gumoschnik,11450.0,Valid,H5,5700.0,Fell,1904.0,42.9,24.7,"(42.9, 24.7)",['Bulgaria'],['Bulgaria']
+Gumoschnik,11450.0,Valid,H5,5700.0,Fell,1904.0,42.9,24.7,"(42.9, 24.7)",['Bulgaria'],Bulgaria
 Gurram Konda,11464.0,Valid,L6,28.0,Fell,1814.0,13.78333,78.56667,"(13.78333, 78.56667)",Andhra Pradesh,India
 Gursum,11465.0,Valid,H4/5,34650.0,Fell,1981.0,9.36667,42.41667,"(9.36667, 42.41667)",Oromia Region,Ethiopia
 Gütersloh,11466.0,Valid,H3/4,1000.0,Fell,1851.0,51.91667,8.38333,"(51.91667, 8.38333)",North Rhine-Westphalia,Germany
 Gyokukei,11467.0,Valid,OC,1320.0,Fell,1930.0,35.0,127.5,"(35.0, 127.5)",South Jeolla,South Korea
 Hachi-oji,11468.0,Valid,H?,0.2,Fell,1817.0,35.65,139.33333,"(35.65, 139.33333)",Tokyo,Japan
 Hainaut,11472.0,Valid,H3-6,9000.0,Fell,1934.0,50.31667,3.73333,"(50.31667, 3.73333)",Wallonia,Belgium
-Hallingeberg,11479.0,Valid,L3.4,1456.0,Fell,1944.0,57.81667,16.23333,"(57.81667, 16.23333)",['Sweden'],['Sweden']
+Hallingeberg,11479.0,Valid,L3.4,1456.0,Fell,1944.0,57.81667,16.23333,"(57.81667, 16.23333)",['Sweden'],Sweden
 Hamlet,11485.0,Valid,LL4,3710.0,Fell,1959.0,41.38333,-86.6,"(41.38333, -86.6)",Indiana,United States
 Haraiya,11824.0,Valid,Eucrite-mmict,1000.0,Fell,1878.0,26.8,82.53333,"(26.8, 82.53333)",Uttar Pradesh,India
 Haripura,11829.0,Valid,CM2,315.0,Fell,1921.0,28.38333,75.78333,"(28.38333, 75.78333)",Rajasthan,India
@@ -355,22 +355,22 @@ Hashima,11848.0,Valid,H4,1110.6,Fell,1910.0,35.2945,136.70033,"(35.2945, 136.700
 Hassi-Jekna,11852.0,Valid,"Iron, IAB-sHL",1250.0,Fell,1890.0,28.95,0.81667,"(28.95, 0.81667)",Timimoun Province,Algeria
 Hatford,11855.0,Valid,Stone-uncl,29000.0,Fell,1628.0,51.65,-1.51667,"(51.65, -1.51667)",England,United Kingdom
 Haverö,11859.0,Valid,Ureilite,1544.0,Fell,1971.0,60.24556,22.06194,"(60.24556, 22.06194)",Mainland Finland,Finland
-Hedeskoga,11869.0,Valid,H5,3500.0,Fell,1922.0,55.46667,13.78333,"(55.46667, 13.78333)",['Sweden'],['Sweden']
-Hedjaz,11870.0,Valid,L3.7-6,6100.0,Fell,1910.0,27.33333,35.66667,"(27.33333, 35.66667)",['Saudi Arabia'],['Saudi Arabia']
+Hedeskoga,11869.0,Valid,H5,3500.0,Fell,1922.0,55.46667,13.78333,"(55.46667, 13.78333)",['Sweden'],Sweden
+Hedjaz,11870.0,Valid,L3.7-6,6100.0,Fell,1910.0,27.33333,35.66667,"(27.33333, 35.66667)",['Saudi Arabia'],Saudi Arabia
 Heredia,11875.0,Valid,H5,1000.0,Fell,1857.0,10.0,-84.1,"(10.0, -84.1)",Heredia Province,Costa Rica
-Hessle,11878.0,Valid,H5,20000.0,Fell,1869.0,59.85,17.66667,"(59.85, 17.66667)",['Sweden'],['Sweden']
+Hessle,11878.0,Valid,H5,20000.0,Fell,1869.0,59.85,17.66667,"(59.85, 17.66667)",['Sweden'],Sweden
 Higashi-koen,11883.0,Valid,H5,750.0,Fell,1897.0,33.6,130.43333,"(33.6, 130.43333)",Fukuoka Prefecture,Japan
 High Possil,11884.0,Valid,L6,4500.0,Fell,1804.0,55.9,-4.23333,"(55.9, -4.23333)",Scotland,United Kingdom
 Hiroshima,11889.0,Valid,H5,414.0,Fell,2003.0,34.45,132.38333,"(34.45, 132.38333)",Hiroshima Prefecture,Japan
 Hoima,44714.0,Valid,H6,167.7,Fell,2003.0,1.345,31.47278,"(1.345, 31.47278)",Western Region,Uganda
-Hökmark,11893.0,Valid,L4,305.5,Fell,1954.0,64.43333,21.2,"(64.43333, 21.2)",['Sweden'],['Sweden']
+Hökmark,11893.0,Valid,L4,305.5,Fell,1954.0,64.43333,21.2,"(64.43333, 21.2)",['Sweden'],Sweden
 Holbrook,11894.0,Valid,L/LL6,220000.0,Fell,1912.0,34.9,-110.18333,"(34.9, -110.18333)",Arizona,United States
 Holetta,11895.0,Valid,Stone-uncl,1415.0,Fell,1923.0,9.06667,38.41667,"(9.06667, 38.41667)",Oromia Region,Ethiopia
 Homestead,11901.0,Valid,L5,230000.0,Fell,1875.0,41.8,-91.86667,"(41.8, -91.86667)",Iowa,United States
 Honolulu,11904.0,Valid,L5,2420.0,Fell,1825.0,21.3,-157.86667,"(21.3, -157.86667)",Hawaii,United States
 Hotse,11913.0,Valid,L6,180.0,Fell,1956.0,35.66667,115.5,"(35.66667, 115.5)",Shandong,China
 Hoxie,11915.0,Valid,OC,266.1,Fell,1963.0,39.35,-100.45,"(39.35, -100.45)",Kansas,United States
-Hraschina,11916.0,Valid,"Iron, IID",49000.0,Fell,1751.0,46.1,16.33333,"(46.1, 16.33333)",['Croatia'],['Croatia']
+Hraschina,11916.0,Valid,"Iron, IID",49000.0,Fell,1751.0,46.1,16.33333,"(46.1, 16.33333)",['Croatia'],Croatia
 Huaxi,54719.0,Valid,H5,1600.0,Fell,2010.0,26.46469,106.63241,"(26.46469, 106.63241)",Guizhou,China
 Hungen,11986.0,Valid,H6,112.0,Fell,1877.0,50.3,8.91667,"(50.3, 8.91667)",Hesse,Germany
 Hvittis,11989.0,Valid,EL6,14000.0,Fell,1901.0,61.18333,22.68333,"(61.18333, 22.68333)",Mainland Finland,Finland
@@ -396,7 +396,7 @@ Jalandhar,12069.0,Valid,Iron,1967.0,Fell,1621.0,31.0,75.0,"(31.0, 75.0)",Punjab,
 Jamkheir,12072.0,Valid,H6,22.0,Fell,1866.0,18.75,75.33333,"(18.75, 75.33333)",Maharashtra,India
 Jartai,12074.0,Valid,L6,20500.0,Fell,1979.0,39.7,105.8,"(39.7, 105.8)",Inner Mongolia,China
 Jelica,12078.0,Valid,LL6,34000.0,Fell,1889.0,43.83333,20.44167,"(43.83333, 20.44167)",Central Serbia,Serbia
-Jesenice,51589.0,Valid,L6,3667.0,Fell,2009.0,46.42137,14.05217,"(46.42137, 14.05217)",['Slovenia'],['Slovenia']
+Jesenice,51589.0,Valid,L6,3667.0,Fell,2009.0,46.42137,14.05217,"(46.42137, 14.05217)",['Slovenia'],Slovenia
 Jhung,12085.0,Valid,L5,5900.0,Fell,1873.0,31.3,72.38333,"(31.3, 72.38333)",Punjab,Pakistan
 Jiange,12086.0,Valid,H5,222.0,Fell,1964.0,31.91667,104.91667,"(31.91667, 104.91667)",Sichuan,China
 Jianshi,12087.0,Valid,"Iron, IIIAB",600000.0,Fell,1890.0,30.80833,109.5,"(30.80833, 109.5)",Chongqing,China
@@ -410,7 +410,7 @@ Juancheng,12203.0,Valid,H5,100000.0,Fell,1997.0,35.5,115.41667,"(35.5, 115.41667
 Judesegeri,12207.0,Valid,H6,680.0,Fell,1876.0,12.85,76.8,"(12.85, 76.8)",Karnataka,India
 Jumapalo,12209.0,Valid,L6,32490.0,Fell,1984.0,-7.71667,111.2,"(-7.71667, 111.2)",Java,Indonesia
 Junan,12210.0,Valid,L6,950.0,Fell,1976.0,35.2,118.8,"(35.2, 118.8)",Shandong,China
-Juromenha,12213.0,Valid,"Iron, IIIAB",25250.0,Fell,1968.0,38.74028,-7.27,"(38.74028, -7.27)",['Portugal'],['Portugal']
+Juromenha,12213.0,Valid,"Iron, IIIAB",25250.0,Fell,1968.0,38.74028,-7.27,"(38.74028, -7.27)",['Portugal'],Portugal
 Juvinas,12214.0,Valid,Eucrite-mmict,91000.0,Fell,1821.0,44.71667,4.3,"(44.71667, 4.3)",Metropolitan France,France
 Kaba,12218.0,Valid,CV3,3000.0,Fell,1857.0,47.35,21.3,"(47.35, 21.3)",Great Plain and North,Hungary
 Kabo,12220.0,Valid,H4,13400.0,Fell,1971.0,11.85,8.21667,"(11.85, 8.21667)",Kano State,Nigeria
@@ -475,7 +475,7 @@ Knyahinya,12335.0,Valid,L/LL5,500000.0,Fell,1866.0,48.9,22.4,"(48.9, 22.4)",East
 Kobe,12336.0,Valid,CK4,136.0,Fell,1999.0,34.73333,135.16667,"(34.73333, 135.16667)",Hyogo Prefecture,Japan
 Kokubunji,12342.0,Valid,L6,11510.0,Fell,1986.0,34.3,133.95,"(34.3, 133.95)",Kagawa Prefecture,Japan
 Komagome,12343.0,Valid,Iron,238.0,Fell,1926.0,35.73333,139.75,"(35.73333, 139.75)",Tokyo,Japan
-Konovo,12344.0,Valid,LL5,90.0,Fell,1931.0,42.51667,26.16667,"(42.51667, 26.16667)",['Bulgaria'],['Bulgaria']
+Konovo,12344.0,Valid,LL5,90.0,Fell,1931.0,42.51667,26.16667,"(42.51667, 26.16667)",['Bulgaria'],Bulgaria
 Košice,53810.0,Valid,H5,4300.0,Fell,2010.0,48.76367,21.17633,"(48.76367, 21.17633)",Eastern Slovakia,Slovakia
 Krähenberg,12353.0,Valid,LL5,16500.0,Fell,1869.0,49.32694,7.46472,"(49.32694, 7.46472)",Rhineland-Palatinate,Germany
 Krasnoi-Ugol,12355.0,Valid,L6,2440.0,Fell,1829.0,54.03333,40.9,"(54.03333, 40.9)",Central Federal District,Russia
@@ -505,7 +505,7 @@ Lakangaon,12435.0,Valid,Eucrite-mmict,212.5,Fell,1910.0,21.86667,76.03333,"(21.8
 Lalitpur,12451.0,Valid,L6,372.0,Fell,1887.0,24.45,78.56667,"(24.45, 78.56667)",Uttar Pradesh,India
 Lancé,12455.0,Valid,CO3.5,51700.0,Fell,1872.0,47.7,1.06667,"(47.7, 1.06667)",Metropolitan France,France
 Lancon,12456.0,Valid,H6,7000.0,Fell,1897.0,43.75,5.11667,"(43.75, 5.11667)",Metropolitan France,France
-Långhalsen,12461.0,Valid,L6,2300.0,Fell,1947.0,58.85,16.73333,"(58.85, 16.73333)",['Sweden'],['Sweden']
+Långhalsen,12461.0,Valid,L6,2300.0,Fell,1947.0,58.85,16.73333,"(58.85, 16.73333)",['Sweden'],Sweden
 Lanxi,12464.0,Valid,L6,1282.0,Fell,1986.0,46.24167,126.19611,"(46.24167, 126.19611)",Heilongjiang,China
 Lanzenkirchen,12465.0,Valid,L4,7000.0,Fell,1925.0,47.75,16.23333,"(47.75, 16.23333)",Lower Austria,Austria
 Laochenzhen,12466.0,Valid,H5,14250.0,Fell,1987.0,33.13333,115.16667,"(33.13333, 115.16667)",Henan,China
@@ -515,14 +515,14 @@ Le Pressoir,12748.0,Valid,H5,3000.0,Fell,1845.0,47.16667,0.43333,"(47.16667, 0.4
 Le Teilleul,12749.0,Valid,Howardite,780.0,Fell,1845.0,48.53333,-0.86667,"(48.53333, -0.86667)",Metropolitan France,France
 Leedey,12755.0,Valid,L6,51500.0,Fell,1943.0,35.88333,-99.33333,"(35.88333, -99.33333)",Oklahoma,United States
 Leeuwfontein,12756.0,Valid,L6,460.0,Fell,1912.0,-25.66667,28.36667,"(-25.66667, 28.36667)",Gauteng,South Africa
-Leighlinbridge,12759.0,Valid,L6,271.4,Fell,1999.0,52.66667,-6.96667,"(52.66667, -6.96667)",['Ireland'],['Ireland']
+Leighlinbridge,12759.0,Valid,L6,271.4,Fell,1999.0,52.66667,-6.96667,"(52.66667, -6.96667)",['Ireland'],Ireland
 Leighton,12760.0,Valid,H5,877.0,Fell,1907.0,34.58333,-87.5,"(34.58333, -87.5)",Alabama,United States
 Leonovka,12765.0,Valid,L6,700.0,Fell,1900.0,52.26667,32.85,"(52.26667, 32.85)",Chernihiv Oblast,Ukraine
 Les Ormes,12769.0,Valid,L6,125.0,Fell,1857.0,48.35,3.25,"(48.35, 3.25)",Metropolitan France,France
 Lesves,12772.0,Valid,L6,2000.0,Fell,1896.0,50.36667,4.73333,"(50.36667, 4.73333)",Wallonia,Belgium
 Lichtenberg,14646.0,Valid,H6,4000.0,Fell,1973.0,-26.15,26.18333,"(-26.15, 26.18333)",North West,South Africa
-Lillaverke,14650.0,Valid,H5,6862.0,Fell,1930.0,56.65,15.86667,"(56.65, 15.86667)",['Sweden'],['Sweden']
-Limerick,14652.0,Valid,H5,50000.0,Fell,1813.0,52.56667,-8.78333,"(52.56667, -8.78333)",['Ireland'],['Ireland']
+Lillaverke,14650.0,Valid,H5,6862.0,Fell,1930.0,56.65,15.86667,"(56.65, 15.86667)",['Sweden'],Sweden
+Limerick,14652.0,Valid,H5,50000.0,Fell,1813.0,52.56667,-8.78333,"(52.56667, -8.78333)",['Ireland'],Ireland
 Linum,14655.0,Valid,L6,1862.0,Fell,1854.0,52.75,12.9,"(52.75, 12.9)",Brandenburg,Germany
 Lishui,14659.0,Valid,L5,498.0,Fell,1978.0,31.63333,118.98333,"(31.63333, 118.98333)",Jiangsu,China
 Lissa,14661.0,Valid,L6,12800.0,Fell,1808.0,50.2,14.85,"(50.2, 14.85)",Central Bohemia,Czechia
@@ -539,7 +539,7 @@ Lua,14721.0,Valid,L5,9241.0,Fell,1926.0,24.95,75.15,"(24.95, 75.15)",Madhya Prad
 Lucé,14724.0,Valid,L6,3500.0,Fell,1768.0,47.85,0.48333,"(47.85, 0.48333)",Metropolitan France,France
 Lumpkin,14753.0,Valid,L6,340.0,Fell,1869.0,32.03333,-84.76667,"(32.03333, -84.76667)",Georgia,United States
 Lunan,14754.0,Valid,H6,2520.0,Fell,1980.0,24.8,103.3,"(24.8, 103.3)",Yunnan,China
-Lundsgård,14755.0,Valid,L6,11000.0,Fell,1889.0,56.21667,13.03333,"(56.21667, 13.03333)",['Sweden'],['Sweden']
+Lundsgård,14755.0,Valid,L6,11000.0,Fell,1889.0,56.21667,13.03333,"(56.21667, 13.03333)",['Sweden'],Sweden
 Luotolax,14756.0,Valid,Howardite,885.0,Fell,1813.0,61.2,27.7,"(61.2, 27.7)",Mainland Finland,Finland
 Luponnas,14757.0,Valid,H3-5,14000.0,Fell,1753.0,46.21667,5.0,"(46.21667, 5.0)",Metropolitan France,France
 Mabwe-Khoywa,14764.0,Valid,L5,540.0,Fell,1937.0,19.0,97.0,"(19.0, 97.0)",Kayah State,Myanmar
@@ -589,7 +589,7 @@ Menziswyl,15486.0,Valid,L5,28.9,Fell,1903.0,46.81867,7.21817,"(46.81867, 7.21817
 Mern,15489.0,Valid,L6,4000.0,Fell,1878.0,55.05,12.06667,"(55.05, 12.06667)",Region Zealand,Denmark
 Meru,15491.0,Valid,LL6,6000.0,Fell,1945.0,0.0,37.66667,"(0.0, 37.66667)",East Kenya,Kenya
 Merua,15492.0,Valid,H5,71400.0,Fell,1920.0,25.48333,81.98333,"(25.48333, 81.98333)",Uttar Pradesh,India
-Messina,15495.0,Valid,L5,2405.0,Fell,1955.0,38.18333,15.56667,"(38.18333, 15.56667)",['Italy'],['Italy']
+Messina,15495.0,Valid,L5,2405.0,Fell,1955.0,38.18333,15.56667,"(38.18333, 15.56667)",['Italy'],Italy
 Meuselbach,16626.0,Valid,L6,870.0,Fell,1897.0,50.58333,11.1,"(50.58333, 11.1)",Thuringia,Germany
 Mezel,16627.0,Valid,L6,1300.0,Fell,1949.0,45.76667,3.25,"(45.76667, 3.25)",Metropolitan France,France
 Mezö-Madaras,16628.0,Valid,L3.7,22700.0,Fell,1852.0,46.5,25.73333,"(46.5, 25.73333)",Harghita,Romania
@@ -600,7 +600,7 @@ Mifflin,52090.0,Valid,L5,3584.0,Fell,2010.0,42.9075,-90.36556,"(42.9075, -90.365
 Mighei,16634.0,Valid,CM2,8000.0,Fell,1889.0,48.06667,30.96667,"(48.06667, 30.96667)",Mykolaiv Oblast,Ukraine
 Mihonoseki,16635.0,Valid,L6,6380.0,Fell,1992.0,35.56833,133.22,"(35.56833, 133.22)",Shimane Prefecture,Japan
 Mike,16636.0,Valid,L6,224.2,Fell,1944.0,46.23333,17.53333,"(46.23333, 17.53333)",Transdanubia,Hungary
-Milena,16640.0,Valid,L6,10000.0,Fell,1842.0,46.18333,16.1,"(46.18333, 16.1)",['Croatia'],['Croatia']
+Milena,16640.0,Valid,L6,10000.0,Fell,1842.0,46.18333,16.1,"(46.18333, 16.1)",['Croatia'],Croatia
 Millbillillie,16643.0,Valid,Eucrite-mmict,330000.0,Fell,1960.0,-26.45,120.36667,"(-26.45, 120.36667)",Western Australia,Australia
 Miller (Arkansas),16645.0,Valid,H5,16700.0,Fell,1930.0,35.4,-92.05,"(35.4, -92.05)",Arkansas,United States
 Minamino,16692.0,Valid,L,1040.0,Fell,1632.0,35.07833,136.93333,"(35.07833, 136.93333)",Chubu Region,Japan
@@ -609,7 +609,7 @@ Min-Fan-Zhun,16697.0,Valid,LL6,5500.0,Fell,1952.0,32.33333,120.66667,"(32.33333,
 Minnichhof,16700.0,Valid,OC,550.0,Fell,1905.0,47.7,16.6,"(47.7, 16.6)",Transdanubia,Hungary
 Mirzapur,16701.0,Valid,L5,8510.0,Fell,1910.0,25.68333,83.25,"(25.68333, 83.25)",Uttar Pradesh,India
 Misshof,16703.0,Valid,H5,5800.0,Fell,1890.0,56.66667,23.0,"(56.66667, 23.0)",Zemgale,Latvia
-Mjelleim,16707.0,Valid,H,100.7,Fell,1898.0,61.73333,5.93333,"(61.73333, 5.93333)",['Norway'],['Norway']
+Mjelleim,16707.0,Valid,H,100.7,Fell,1898.0,61.73333,5.93333,"(61.73333, 5.93333)",['Norway'],Norway
 Mocs,16709.0,Valid,L5-6,300000.0,Fell,1882.0,46.8,24.03333,"(46.8, 24.03333)",Cluj,Romania
 Modoc (1905),16711.0,Valid,L6,35000.0,Fell,1905.0,38.5,-101.1,"(38.5, -101.1)",Kansas,United States
 Mokoia,16713.0,Valid,CV3,4500.0,Fell,1908.0,-39.63333,174.4,"(-39.63333, 174.4)",Taranaki,New Zealand
@@ -617,17 +617,17 @@ Molina,16715.0,Valid,H5,144000.0,Fell,1858.0,38.11667,-1.16667,"(38.11667, -1.16
 Molteno,16717.0,Valid,Howardite,150.0,Fell,1953.0,-31.25,26.46667,"(-31.25, 26.46667)",Eastern Cape,South Africa
 Monahans (1998),16719.0,Valid,H5,2587.0,Fell,1998.0,31.60833,-102.85833,"(31.60833, -102.85833)",Texas,United States
 Monroe,16720.0,Valid,H4,8600.0,Fell,1849.0,35.25,-80.5,"(35.25, -80.5)",North Carolina,United States
-Monte das Fortes,16725.0,Valid,L5,4885.0,Fell,1950.0,38.01667,-8.25,"(38.01667, -8.25)",['Portugal'],['Portugal']
+Monte das Fortes,16725.0,Valid,L5,4885.0,Fell,1950.0,38.01667,-8.25,"(38.01667, -8.25)",['Portugal'],Portugal
 Monte Milone,16726.0,Valid,L5,3130.0,Fell,1846.0,43.26667,13.35,"(43.26667, 13.35)",Marche,Italy
 Montferré,16727.0,Valid,H5,149000.0,Fell,1923.0,43.39056,1.9625,"(43.39056, 1.9625)",Metropolitan France,France
 Montlivault,16729.0,Valid,L6,500.0,Fell,1838.0,47.63333,1.58333,"(47.63333, 1.58333)",Metropolitan France,France
 Moore County,16736.0,Valid,Eucrite-cm,1880.0,Fell,1913.0,35.41667,-79.38333,"(35.41667, -79.38333)",North Carolina,United States
-Mooresfort,16737.0,Valid,H5,3520.0,Fell,1810.0,52.45,-8.33333,"(52.45, -8.33333)",['Ireland'],['Ireland']
+Mooresfort,16737.0,Valid,H5,3520.0,Fell,1810.0,52.45,-8.33333,"(52.45, -8.33333)",['Ireland'],Ireland
 Moorleah,16738.0,Valid,L6,8887.5,Fell,1930.0,-40.975,145.6,"(-40.975, 145.6)",Tasmania,Australia
 Moradabad,16740.0,Valid,L6,70.0,Fell,1808.0,28.78333,78.83333,"(28.78333, 78.83333)",Uttar Pradesh,India
 Morávka,16742.0,Valid,H5,633.0,Fell,2000.0,49.6,18.53333,"(49.6, 18.53333)",Moravia-Silesia,Czechia
 Mornans,16747.0,Valid,H5,1300.0,Fell,1875.0,44.6,5.13333,"(44.6, 5.13333)",Metropolitan France,France
-Moss,36592.0,Valid,CO3.6,3763.0,Fell,2006.0,59.43333,10.7,"(59.43333, 10.7)",['Norway'],['Norway']
+Moss,36592.0,Valid,CO3.6,3763.0,Fell,2006.0,59.43333,10.7,"(59.43333, 10.7)",['Norway'],Norway
 Moti-ka-nagla,16759.0,Valid,H6,1500.0,Fell,1868.0,26.83333,77.33333,"(26.83333, 77.33333)",Rajasthan,India
 Motta di Conti,16762.0,Valid,H4,9150.0,Fell,1868.0,45.2,8.5,"(45.2, 8.5)",Piedmont,Italy
 Mount Browne,16766.0,Valid,H6,11300.0,Fell,1902.0,-29.8,141.7,"(-29.8, 141.7)",New South Wales,Australia
@@ -688,7 +688,7 @@ Nyaung,17969.0,Valid,"Iron, IIIAB",737.6,Fell,1939.0,21.20833,94.91667,"(21.2083
 Nyirábrany,17970.0,Valid,LL5,1100.0,Fell,1914.0,47.55,22.025,"(47.55, 22.025)",Great Plain and North,Hungary
 Ochansk,17979.0,Valid,H4,500000.0,Fell,1887.0,57.78333,55.26667,"(57.78333, 55.26667)",Volga Federal District,Russia
 Oesede,17988.0,Valid,H5,1400.0,Fell,1927.0,52.28333,8.05,"(52.28333, 8.05)",Lower Saxony,Germany
-Oesel,17989.0,Valid,L6,6000.0,Fell,1855.0,58.5,23.0,"(58.5, 23.0)",['Estonia'],['Estonia']
+Oesel,17989.0,Valid,L6,6000.0,Fell,1855.0,58.5,23.0,"(58.5, 23.0)",['Estonia'],Estonia
 Ofehértó,17990.0,Valid,L6,3750.0,Fell,1900.0,47.88333,22.03333,"(47.88333, 22.03333)",Great Plain and North,Hungary
 Ogi,17994.0,Valid,H6,14360.0,Fell,1741.0,33.28333,130.2,"(33.28333, 130.2)",Saga Prefecture,Japan
 Ohaba,17995.0,Valid,H5,16250.0,Fell,1857.0,46.06667,23.58333,"(46.06667, 23.58333)",Alba,Romania
@@ -706,13 +706,13 @@ Orlando,34489.0,Valid,Eucrite,180.0,Fell,2004.0,28.5475,-81.36222,"(28.5475, -81
 Ornans,18030.0,Valid,CO3.4,6000.0,Fell,1868.0,47.11667,6.15,"(47.11667, 6.15)",Metropolitan France,France
 Ortenau,18033.0,Valid,Stone-uncl,4500.0,Fell,1671.0,48.5,8.0,"(48.5, 8.0)",Baden-Württemberg,Germany
 Orvinio,18034.0,Valid,H6,3400.0,Fell,1872.0,42.13333,12.93333,"(42.13333, 12.93333)",Lazio,Italy
-Oterøy,18042.0,Valid,L6,246.0,Fell,1928.0,58.88333,9.4,"(58.88333, 9.4)",['Norway'],['Norway']
+Oterøy,18042.0,Valid,L6,246.0,Fell,1928.0,58.88333,9.4,"(58.88333, 9.4)",['Norway'],Norway
 Otomi,18045.0,Valid,H,6510.0,Fell,1867.0,38.4,140.35,"(38.4, 140.35)",Yamagata Prefecture,Japan
 Ottawa,18046.0,Valid,LL6,840.0,Fell,1896.0,38.6,-95.21667,"(38.6, -95.21667)",Kansas,United States
 Ouadangou,56729.0,Valid,L5,4440.0,Fell,2003.0,12.9,0.08,"(12.9, 0.08)",East,Burkina Faso
 Oued el Hadjar,18050.0,Valid,LL6,1215.5,Fell,1986.0,30.18,-6.57717,"(30.18, -6.57717)",Souss-Massa,Morocco
 Oum Dreyga,31282.0,Valid,H3-5,17000.0,Fell,2003.0,24.3,-13.1,"(24.3, -13.1)",Dakhla-Oued Ed-Dahab,Morocco
-Ourique,18052.0,Valid,H4,20000.0,Fell,1998.0,37.60833,-8.28,"(37.60833, -8.28)",['Portugal'],['Portugal']
+Ourique,18052.0,Valid,H4,20000.0,Fell,1998.0,37.60833,-8.28,"(37.60833, -8.28)",['Portugal'],Portugal
 Ovambo,18055.0,Valid,L6,121.5,Fell,1900.0,-18.0,16.0,"(-18.0, 16.0)",Oshikoto,Namibia
 Oviedo,18058.0,Valid,H5,205.0,Fell,1856.0,43.4,-5.86667,"(43.4, -5.86667)",Asturias,Spain
 Pacula,18068.0,Valid,L6,3400.0,Fell,1881.0,21.05,-99.3,"(21.05, -99.3)",Hidalgo,Mexico
@@ -735,7 +735,7 @@ Patora,18112.0,Valid,H6,4375.0,Fell,1969.0,20.93694,82.05,"(20.93694, 82.05)",Ch
 Patrimonio,18116.0,Valid,L6,2121.0,Fell,1950.0,-19.53333,-48.56667,"(-19.53333, -48.56667)",Southeast Region,Brazil
 Patti,18118.0,Valid,Iron,12.0,Fell,1922.0,38.13333,14.96667,"(38.13333, 14.96667)",Sicily,Italy
 Patwar,18171.0,Valid,Mesosiderite-A1,37350.0,Fell,1935.0,23.15,91.18333,"(23.15, 91.18333)",Chattogram Division,Bangladesh
-Pavel,18173.0,Valid,H5,2968.0,Fell,1966.0,43.46667,25.51667,"(43.46667, 25.51667)",['Bulgaria'],['Bulgaria']
+Pavel,18173.0,Valid,H5,2968.0,Fell,1966.0,43.46667,25.51667,"(43.46667, 25.51667)",['Bulgaria'],Bulgaria
 Pavlodar (stone),18175.0,Valid,H5,142.5,Fell,1938.0,52.3,77.03333,"(52.3, 77.03333)",Pavlodar Region,Kazakhstan
 Pavlograd,18176.0,Valid,L6,40000.0,Fell,1826.0,48.53333,35.98333,"(48.53333, 35.98333)",Dnipropetrovsk Oblast,Ukraine
 Pavlovka,18177.0,Valid,Howardite,2000.0,Fell,1882.0,52.03333,43.0,"(52.03333, 43.0)",Volga Federal District,Russia
@@ -755,7 +755,7 @@ Phu Hong,18809.0,Valid,H4,500.0,Fell,1887.0,11.25,108.58333,"(11.25, 108.58333)"
 Phum Sambo,18811.0,Valid,H4,7800.0,Fell,1933.0,12.0,105.48333,"(12.0, 105.48333)",Tbong Khmum,Cambodia
 Phuoc-Binh,18812.0,Valid,L5,11000.0,Fell,1941.0,15.71667,108.1,"(15.71667, 108.1)",Quảng Nam Province,Vietnam
 Piancaldoli,18813.0,Valid,LL3.4,13.1,Fell,1968.0,44.24417,11.50222,"(44.24417, 11.50222)",Emilia-Romagna,Italy
-Pillistfer,18822.0,Valid,EL6,23250.0,Fell,1863.0,58.66667,25.73333,"(58.66667, 25.73333)",['Estonia'],['Estonia']
+Pillistfer,18822.0,Valid,EL6,23250.0,Fell,1863.0,58.66667,25.73333,"(58.66667, 25.73333)",['Estonia'],Estonia
 Piplia Kalan,18831.0,Valid,Eucrite-mmict,42000.0,Fell,1996.0,26.03472,73.94167,"(26.03472, 73.94167)",Rajasthan,India
 Piquetberg,18832.0,Valid,H,37.0,Fell,1881.0,-32.86667,18.71667,"(-32.86667, 18.71667)",Western Cape,South Africa
 Pirgunje,18834.0,Valid,L6,842.0,Fell,1882.0,25.8,88.45,"(25.8, 88.45)",Rangpur Division,Bangladesh
@@ -767,10 +767,10 @@ Ploschkovitz,18849.0,Valid,L5,39.0,Fell,1723.0,50.53333,14.11667,"(50.53333, 14.
 Pnompehn,18851.0,Valid,L6,96.0,Fell,1868.0,11.58333,104.91667,"(11.58333, 104.91667)",Phnom Penh,Cambodia
 Pohlitz,18853.0,Valid,L5,3000.0,Fell,1819.0,50.93333,12.13333,"(50.93333, 12.13333)",Thuringia,Germany
 Pokhra,18858.0,Valid,H5,350.0,Fell,1866.0,26.71667,82.66667,"(26.71667, 82.66667)",Uttar Pradesh,India
-Pollen,18860.0,Valid,CM2,253.6,Fell,1942.0,66.34833,14.015,"(66.34833, 14.015)",['Norway'],['Norway']
+Pollen,18860.0,Valid,CM2,253.6,Fell,1942.0,66.34833,14.015,"(66.34833, 14.015)",['Norway'],Norway
 Pontlyfni,18865.0,Valid,Winonaite,157.0,Fell,1931.0,53.03639,-4.31944,"(53.03639, -4.31944)",Wales,United Kingdom
 Portales Valley,18874.0,Valid,H6,71400.0,Fell,1998.0,34.175,-103.295,"(34.175, -103.295)",New Mexico,United States
-Portugal,18876.0,Valid,Stone-uncl,4500.0,Fell,1796.0,38.5,-8.0,"(38.5, -8.0)",['Portugal'],['Portugal']
+Portugal,18876.0,Valid,Stone-uncl,4500.0,Fell,1796.0,38.5,-8.0,"(38.5, -8.0)",['Portugal'],Portugal
 Po-wang Chen,18879.0,Valid,LL,665.0,Fell,1933.0,31.41667,118.5,"(31.41667, 118.5)",Anhui,China
 Prambachkirchen,18883.0,Valid,L6,2125.0,Fell,1932.0,48.3025,13.94083,"(48.3025, 13.94083)",Upper Austria,Austria
 Pribram,18887.0,Valid,H5,5555.0,Fell,1959.0,49.66667,14.03333,"(49.66667, 14.03333)",Central Bohemia,Czechia
@@ -782,7 +782,7 @@ Punganaru,18902.0,Valid,Stone-uncl,100.0,Fell,1811.0,13.33333,78.95,"(13.33333, 
 Putinga,18905.0,Valid,L6,300000.0,Fell,1937.0,-29.03333,-53.05,"(-29.03333, -53.05)",South Region,Brazil
 Qidong,18907.0,Valid,L/LL5,1275.0,Fell,1982.0,32.08333,121.5,"(32.08333, 121.5)",Jiangsu,China
 Qingzhen,18908.0,Valid,EH3,2600.0,Fell,1976.0,26.53333,106.46667,"(26.53333, 106.46667)",Guizhou,China
-Queen's Mercy,22357.0,Valid,H6,7000.0,Fell,1925.0,-30.11667,28.7,"(-30.11667, 28.7)",['Lesotho'],['Lesotho']
+Queen's Mercy,22357.0,Valid,H6,7000.0,Fell,1925.0,-30.11667,28.7,"(-30.11667, 28.7)",['Lesotho'],Lesotho
 Quenggouk,22358.0,Valid,H4,6045.0,Fell,1857.0,17.76667,95.18333,"(17.76667, 95.18333)",Ayeyarwady,Myanmar
 Quesa,22360.0,Valid,"Iron, IAB-ung",10750.0,Fell,1898.0,39.0,-0.66667,"(39.0, -0.66667)",Valencian Community,Spain
 Quija,22361.0,Valid,H,17450.0,Fell,1990.0,44.61667,126.13333,"(44.61667, 126.13333)",Jilin,China
@@ -798,8 +798,8 @@ Ranchapur,22387.0,Valid,H4,290.4,Fell,1917.0,23.98333,87.08333,"(23.98333, 87.08
 Rancho de la Presa,22390.0,Valid,H5,300.0,Fell,1899.0,19.86667,-100.81667,"(19.86667, -100.81667)",Michoacán,Mexico
 Rangala,22392.0,Valid,L6,3224.5,Fell,1937.0,25.38333,72.01667,"(25.38333, 72.01667)",Rajasthan,India
 Raoyang,22394.0,Valid,L6,4910.0,Fell,1919.0,38.2,115.7,"(38.2, 115.7)",Hebei,China
-Ras Tanura,22395.0,Valid,H6,6.1,Fell,1961.0,26.66667,50.15,"(26.66667, 50.15)",['Saudi Arabia'],['Saudi Arabia']
-Rasgrad,22396.0,Valid,Stone-uncl,24700.0,Fell,1740.0,43.5,26.53333,"(43.5, 26.53333)",['Bulgaria'],['Bulgaria']
+Ras Tanura,22395.0,Valid,H6,6.1,Fell,1961.0,26.66667,50.15,"(26.66667, 50.15)",['Saudi Arabia'],Saudi Arabia
+Rasgrad,22396.0,Valid,Stone-uncl,24700.0,Fell,1740.0,43.5,26.53333,"(43.5, 26.53333)",['Bulgaria'],Bulgaria
 Ratyn,22398.0,Valid,Stone-uncl,910.0,Fell,1880.0,52.2,17.98333,"(52.2, 17.98333)",Greater Poland Voivodeship,Poland
 Red Canyon Lake,53502.0,Valid,H5,18.41,Fell,2007.0,38.13742,-119.75812,"(38.13742, -119.75812)",California,United States
 Reliegos,22584.0,Valid,L5,17300.0,Fell,1947.0,42.475,-5.33333,"(42.475, -5.33333)",Castile and León,Spain
@@ -881,7 +881,7 @@ Shytal,23584.0,Valid,L6,3200.0,Fell,1863.0,24.33333,90.16667,"(24.33333, 90.1666
 Siena,23586.0,Valid,LL5,3700.0,Fell,1794.0,43.11667,11.6,"(43.11667, 11.6)",Tuscany,Italy
 Sikhote-Alin,23593.0,Valid,"Iron, IIAB",23000000.0,Fell,1947.0,46.16,134.65333,"(46.16, 134.65333)",Far Eastern Federal District,Russia
 Silao,23594.0,Valid,H5,1710.0,Fell,1995.0,20.93333,-101.38333,"(20.93333, -101.38333)",Guanajuato,Mexico
-Silistra,55584.0,Valid,Achondrite-ung,0.15,Fell,1917.0,44.11667,27.26667,"(44.11667, 27.26667)",['Bulgaria'],['Bulgaria']
+Silistra,55584.0,Valid,Achondrite-ung,0.15,Fell,1917.0,44.11667,27.26667,"(44.11667, 27.26667)",['Bulgaria'],Bulgaria
 Simmern,23603.0,Valid,H5,1222.0,Fell,1920.0,49.98333,7.53333,"(49.98333, 7.53333)",Rhineland-Palatinate,Germany
 Sinai,23606.0,Valid,L6,1455.0,Fell,1916.0,30.9,32.48333,"(30.9, 32.48333)",Al Ismailiya,Egypt
 Sindhri,23611.0,Valid,H5,8400.0,Fell,1901.0,26.21667,69.55,"(26.21667, 69.55)",Sindh,Pakistan
@@ -890,8 +890,8 @@ Sioux County,23614.0,Valid,Eucrite-mmict,4100.0,Fell,1933.0,42.58333,-103.66667,
 Sitathali,23616.0,Valid,H5,1600.0,Fell,1875.0,20.91667,82.58333,"(20.91667, 82.58333)",Odisha,India
 Sivas,23617.0,Valid,H6,40000.0,Fell,1989.0,39.82467,36.13583,"(39.82467, 36.13583)",Central Anatolia Region,Turkey
 Sixiangkou,23619.0,Valid,L5,630.0,Fell,1989.0,32.43333,119.86667,"(32.43333, 119.86667)",Jiangsu,China
-Ski,23621.0,Valid,L6,850.0,Fell,1848.0,59.73333,10.86667,"(59.73333, 10.86667)",['Norway'],['Norway']
-Slavetic,23626.0,Valid,H5,1708.0,Fell,1868.0,45.68333,15.6,"(45.68333, 15.6)",['Croatia'],['Croatia']
+Ski,23621.0,Valid,L6,850.0,Fell,1848.0,59.73333,10.86667,"(59.73333, 10.86667)",['Norway'],Norway
+Slavetic,23626.0,Valid,H5,1708.0,Fell,1868.0,45.68333,15.6,"(45.68333, 15.6)",['Croatia'],Croatia
 Slobodka,23645.0,Valid,L4,2750.0,Fell,1818.0,55.0,35.0,"(55.0, 35.0)",Central Federal District,Russia
 Soheria,23660.0,Valid,OC,72.9,Fell,1960.0,27.13333,84.06667,"(27.13333, 84.06667)",Bihar,India
 Soko-Banja,23661.0,Valid,LL4,80000.0,Fell,1877.0,43.66667,21.86667,"(43.66667, 21.86667)",Central Serbia,Serbia
@@ -911,7 +911,7 @@ St. Mary's County,23091.0,Valid,LL3.3,24.3,Fell,1919.0,38.16667,-76.38333,"(38.1
 St. Mesmin,23092.0,Valid,LL6,8300.0,Fell,1866.0,48.45,3.93333,"(48.45, 3.93333)",Metropolitan France,France
 St. Michel,23093.0,Valid,L6,17000.0,Fell,1910.0,61.65,27.2,"(61.65, 27.2)",Mainland Finland,Finland
 St.-Chinian,23097.0,Valid,L6,134.3,Fell,1959.0,43.43333,2.95,"(43.43333, 2.95)",Metropolitan France,France
-Ställdalen,23712.0,Valid,H5,34000.0,Fell,1876.0,59.93333,14.95,"(59.93333, 14.95)",['Sweden'],['Sweden']
+Ställdalen,23712.0,Valid,H5,34000.0,Fell,1876.0,59.93333,14.95,"(59.93333, 14.95)",['Sweden'],Sweden
 Stannern,23713.0,Valid,Eucrite-mmict,52000.0,Fell,1808.0,49.28333,15.56667,"(49.28333, 15.56667)",Southeast,Czechia
 Stavropol,23717.0,Valid,L6,1500.0,Fell,1857.0,45.05,41.98333,"(45.05, 41.98333)",North Caucasian Federal District,Russia
 Ste. Marguerite,23099.0,Valid,H4,4960.0,Fell,1962.0,50.76667,3.0,"(50.76667, 3.0)",Wallonia,Belgium
@@ -943,10 +943,10 @@ Tathlith,23885.0,Valid,L6,2500.0,Fell,1967.0,19.38333,43.73333,"(19.38333, 43.73
 Tauk,23887.0,Valid,L6,6000.0,Fell,1929.0,35.13333,44.45,"(35.13333, 44.45)",Kirkuk Governorate,Iraq
 Tauti,23888.0,Valid,L6,21000.0,Fell,1937.0,46.71667,23.5,"(46.71667, 23.5)",Cluj,Romania
 Tenham,23897.0,Valid,L6,160000.0,Fell,1879.0,-25.73333,142.95,"(-25.73333, 142.95)",Queensland,Australia
-Tennasilm,23898.0,Valid,L4,28500.0,Fell,1872.0,58.03333,26.95,"(58.03333, 26.95)",['Estonia'],['Estonia']
+Tennasilm,23898.0,Valid,L4,28500.0,Fell,1872.0,58.03333,26.95,"(58.03333, 26.95)",['Estonia'],Estonia
 Thal,23908.0,Valid,H6,342.0,Fell,1950.0,33.4,70.6,"(33.4, 70.6)",Khyber Pakhtunkhwa,Pakistan
 Thika,54493.0,Valid,L6,14200.0,Fell,2011.0,-1.00278,37.15028,"(-1.00278, 37.15028)",Central Kenya,Kenya
-Thuathe,23976.0,Valid,H4/5,45300.0,Fell,2002.0,-29.33333,27.58333,"(-29.33333, 27.58333)",['Lesotho'],['Lesotho']
+Thuathe,23976.0,Valid,H4/5,45300.0,Fell,2002.0,-29.33333,27.58333,"(-29.33333, 27.58333)",['Lesotho'],Lesotho
 Tianzhang,23984.0,Valid,H5,2232.0,Fell,1986.0,32.94667,118.99,"(32.94667, 118.99)",Anhui,China
 Tieschitz,23989.0,Valid,H/L3.6,28000.0,Fell,1878.0,49.6,17.11667,"(49.6, 17.11667)",Central Moravia,Czechia
 Tilden,23998.0,Valid,L6,74800.0,Fell,1927.0,38.2,-89.68333,"(38.2, -89.68333)",Illinois,United States
@@ -969,15 +969,15 @@ Tourinnes-la-Grosse,24038.0,Valid,L6,14500.0,Fell,1863.0,50.78333,4.76667,"(50.7
 Trebbin,24042.0,Valid,LL6,1250.0,Fell,1988.0,52.21667,13.16667,"(52.21667, 13.16667)",Brandenburg,Germany
 Trenzano,24046.0,Valid,H3/4,11800.0,Fell,1856.0,45.46667,10.0,"(45.46667, 10.0)",Lombardy,Italy
 Treysa,24050.0,Valid,"Iron, IIIAB-an",63000.0,Fell,1916.0,50.91667,9.18333,"(50.91667, 9.18333)",Hesse,Germany
-Tromøy,24053.0,Valid,H,357.4,Fell,1950.0,58.47333,8.86667,"(58.47333, 8.86667)",['Norway'],['Norway']
+Tromøy,24053.0,Valid,H,357.4,Fell,1950.0,58.47333,8.86667,"(58.47333, 8.86667)",['Norway'],Norway
 Troup,24054.0,Valid,L6,1020.0,Fell,1917.0,32.16667,-95.1,"(32.16667, -95.1)",Texas,United States
-Trysil,24057.0,Valid,L/LL6,640.0,Fell,1927.0,61.3,12.3,"(61.3, 12.3)",['Norway'],['Norway']
+Trysil,24057.0,Valid,L/LL6,640.0,Fell,1927.0,61.3,12.3,"(61.3, 12.3)",['Norway'],Norway
 Tsukuba,24059.0,Valid,H5-6,800.0,Fell,1996.0,36.06333,140.145,"(36.06333, 140.145)",Ibaraki Prefecture,Japan
 Tuan Tuc,24060.0,Valid,L6,13100.0,Fell,1921.0,9.66667,105.66667,"(9.66667, 105.66667)",Hậu Giang Province,Vietnam
 Tugalin-Bulen,24062.0,Valid,H6,10000.0,Fell,1967.0,45.46667,105.38333,"(45.46667, 105.38333)",Dundgovi,Mongolia
 Turtle Lake,47343.0,Valid,L5,89.3,Fell,1996.0,45.34583,-92.05167,"(45.34583, -92.05167)",Wisconsin,United States
 Tuxtuac,24086.0,Valid,LL5,30000.0,Fell,1975.0,21.66667,-103.36667,"(21.66667, -103.36667)",Zacatecas,Mexico
-Tysnes Island,24094.0,Valid,H4,19860.0,Fell,1884.0,60.0,5.61667,"(60.0, 5.61667)",['Norway'],['Norway']
+Tysnes Island,24094.0,Valid,H4,19860.0,Fell,1884.0,60.0,5.61667,"(60.0, 5.61667)",['Norway'],Norway
 Tyumen,24095.0,Valid,Iron,750.0,Fell,1903.0,57.16667,65.53333,"(57.16667, 65.53333)",Ural Federal District,Russia
 Uberaba,24096.0,Valid,H5,40000.0,Fell,1903.0,-19.81667,-48.78333,"(-19.81667, -48.78333)",Southeast Region,Brazil
 Ucera,24097.0,Valid,H5,4590.0,Fell,1970.0,11.05,-69.85,"(11.05, -69.85)",Falcon State,Venezuela
@@ -1009,7 +1009,7 @@ Vetluga,24169.0,Valid,Eucrite-mmict,750.0,Fell,1949.0,57.8,45.8,"(57.8, 45.8)",V
 Vigarano,24174.0,Valid,CV3,15000.0,Fell,1910.0,44.85,11.4,"(44.85, 11.4)",Emilia-Romagna,Italy
 Villalbeto de la Peña,24179.0,Valid,L6,3500.0,Fell,2004.0,42.8,-4.66667,"(42.8, -4.66667)",Castile and León,Spain
 Vilna,24183.0,Valid,L5,0.1,Fell,1967.0,54.225,-111.69167,"(54.225, -111.69167)",Alberta,Canada
-Virba,24185.0,Valid,L6,3600.0,Fell,1873.0,43.53333,22.63333,"(43.53333, 22.63333)",['Bulgaria'],['Bulgaria']
+Virba,24185.0,Valid,L6,3600.0,Fell,1873.0,43.53333,22.63333,"(43.53333, 22.63333)",['Bulgaria'],Bulgaria
 Vishnupur,24187.0,Valid,LL4-6,2437.0,Fell,1906.0,23.1,87.43333,"(23.1, 87.43333)",West Bengal,India
 Vissannapeta,24188.0,Valid,Eucrite-cm,1303.8,Fell,1997.0,16.83333,80.75,"(16.83333, 80.75)",Andhra Pradesh,India
 Visuni,24189.0,Valid,H6,594.0,Fell,1915.0,25.45,70.0,"(25.45, 70.0)",Sindh,Pakistan
@@ -10550,7 +10550,7 @@ Elida (a),10014.0,Valid,L6,936.8,Found,1968.0,33.78333,-103.57667,"(33.78333, -1
 Elida (b),10015.0,Valid,OC,537.8,Found,1968.0,33.91667,-103.51833,"(33.91667, -103.51833)",New Mexico,United States
 Elida (c),10016.0,Valid,H5,385.5,Found,1968.0,33.79,-103.56333,"(33.79, -103.56333)",New Mexico,United States
 Elkhart,10017.0,Valid,H5,573.0,Found,1936.0,37.01667,-101.88333,"(37.01667, -101.88333)",Kansas,United States
-Ella Island,10018.0,Valid,L6,7500.0,Found,1971.0,72.88333,-25.11667,"(72.88333, -25.11667)",['Greenland'],['Greenland']
+Ella Island,10018.0,Valid,L6,7500.0,Found,1971.0,72.88333,-25.11667,"(72.88333, -25.11667)",['Greenland'],Greenland
 Ellerslie,10020.0,Valid,L5,10200.0,Found,1905.0,-28.9,146.76667,"(-28.9, 146.76667)",Queensland,Australia
 Ellicott,10021.0,Valid,"Iron, IAB-ung",15700.0,Found,1960.0,38.80778,-104.56944,"(38.80778, -104.56944)",Colorado,United States
 Ellis County,10022.0,Valid,H6,4692.0,Found,1948.0,38.78333,-99.33333,"(38.78333, -99.33333)",Kansas,United States
@@ -10601,7 +10601,7 @@ Ferguson Switch,10089.0,Valid,H5,1700.0,Found,1937.0,34.0,-101.5,"(34.0, -101.5)
 Ferintosh,10090.0,Valid,OC,2201.0,Found,1965.0,52.8,-112.98333,"(52.8, -112.98333)",Alberta,Canada
 Fife,30563.0,Valid,H5,8600.0,Found,2003.0,31.38972,-99.40583,"(31.38972, -99.40583)",Texas,United States
 Fillmore,10093.0,Valid,Iron,113.0,Found,1916.0,49.883333,-103.6,"(49.883333, -103.6)",Saskatchewan,Canada
-Finmarken,10103.0,Valid,"Pallasite, PMG",78300.0,Found,1902.0,70.0,24.0,"(70.0, 24.0)",['Norway'],['Norway']
+Finmarken,10103.0,Valid,"Pallasite, PMG",78300.0,Found,1902.0,70.0,24.0,"(70.0, 24.0)",['Norway'],Norway
 Finney,10104.0,Valid,L5,10700.0,Found,1962.0,34.26667,-101.56667,"(34.26667, -101.56667)",Texas,United States
 Finney (c),10105.0,Valid,OC,492.0,Found,1978.0,34.29833,-101.68333,"(34.29833, -101.68333)",Texas,United States
 Fish Canyon,10106.0,Valid,"Iron, IAB complex",27.3,Found,1992.0,31.735,-110.75333,"(31.735, -110.75333)",Arizona,United States
@@ -10616,7 +10616,7 @@ Floydada,10114.0,Valid,"Iron, IIIAB",12500.0,Found,1912.0,33.98333,-101.28333,"(
 Floydada (b),10115.0,Valid,H5,6266.0,Found,1999.0,33.98333,-101.33333,"(33.98333, -101.33333)",Texas,United States
 Fluvanna (a),10116.0,Valid,L5,9500.0,Found,1967.0,32.8,-101.11667,"(32.8, -101.11667)",Texas,United States
 Fluvanna (b),10117.0,Valid,H6,4110.0,Found,1976.0,32.90333,-101.16278,"(32.90333, -101.16278)",Texas,United States
-Föllinge,10118.0,Valid,"Iron, IAB-sLH",400.0,Found,1932.0,63.73333,14.85,"(63.73333, 14.85)",['Sweden'],['Sweden']
+Föllinge,10118.0,Valid,"Iron, IAB-sLH",400.0,Found,1932.0,63.73333,14.85,"(63.73333, 14.85)",['Sweden'],Sweden
 Forestburg (a),10121.0,Valid,L4,26100.0,Found,1957.0,33.50667,-97.65139,"(33.50667, -97.65139)",Texas,United States
 Forestburg (b),10122.0,Valid,L5,26600.0,Found,1957.0,33.49556,-97.58861,"(33.49556, -97.58861)",Texas,United States
 Forrest 001,10124.0,Valid,H5,97.7,Found,1967.0,-30.81667,128.21667,"(-30.81667, 128.21667)",Western Australia,Australia
@@ -15083,7 +15083,7 @@ Jalu,12070.0,Valid,L6,150000.0,Found,2000.0,27.95833,21.68333,"(27.95833, 21.683
 Jamestown,12071.0,Valid,"Iron, IVA",4000.0,Found,1885.0,46.61667,-98.5,"(46.61667, -98.5)",North Dakota,United States
 Jaralito,12073.0,Valid,"Iron, IAB-MG",11138.0,Found,1977.0,26.26583,-103.885,"(26.26583, -103.885)",Durango,Mexico
 Jarud Qi,49715.0,Valid,L5,452.0,Found,2000.0,44.61667,120.93333,"(44.61667, 120.93333)",Inner Mongolia,China
-Javorje,53489.0,Valid,"Iron, IIIAB",4920.0,Found,2009.0,46.16244,14.19166,"(46.16244, 14.19166)",['Slovenia'],['Slovenia']
+Javorje,53489.0,Valid,"Iron, IIIAB",4920.0,Found,2009.0,46.16244,14.19166,"(46.16244, 14.19166)",['Slovenia'],Slovenia
 Jay Bird Springs,47731.0,Valid,Pallasite,292.0,Found,2003.0,32.133333,-82.983333,"(32.133333, -82.983333)",Georgia,United States
 Jdiriya,12076.0,Valid,L5,343.0,Found,1999.0,27.23333,-10.45,"(27.23333, -10.45)",Laâyoune-Sakia El Hamra,Sahrawi Arab Democratic Republic
 Jeedamya,12077.0,Valid,H6,914.0,Found,1971.0,-29.58333,121.16667,"(-29.58333, 121.16667)",Western Australia,Australia
@@ -15749,7 +15749,7 @@ Junction,12212.0,Valid,L5,241.0,Found,1932.0,30.5,-99.83333,"(30.5, -99.83333)",
 Jungo 001,50762.0,Valid,L6,70.7,Found,2007.0,40.89055,-118.36278,"(40.89055, -118.36278)",Nevada,United States
 Jungo 002,50763.0,Valid,H6,27.8,Found,2007.0,40.89805,-118.35388,"(40.89805, -118.35388)",Nevada,United States
 Jungo 003,50764.0,Valid,H6,29.1,Found,2007.0,40.95805,-118.35305,"(40.95805, -118.35305)",Nevada,United States
-Kaalijarv,12217.0,Valid,"Iron, IAB-MG",2250.0,Found,1937.0,58.4,22.66667,"(58.4, 22.66667)",['Estonia'],['Estonia']
+Kaalijarv,12217.0,Valid,"Iron, IAB-MG",2250.0,Found,1937.0,58.4,22.66667,"(58.4, 22.66667)",['Estonia'],Estonia
 Kabakly,12219.0,Valid,H4,71.6,Found,1965.0,39.76667,62.51667,"(39.76667, 62.51667)",Lebap Region,Turkmenistan
 Kackley,45966.0,Valid,H4,1368.0,Found,2006.0,39.71633,-97.8545,"(39.71633, -97.8545)",Kansas,United States
 Kaffir (a),12223.0,Valid,L5,1874.9,Found,1965.0,34.62333,-101.91667,"(34.62333, -101.91667)",Texas,United States
@@ -16160,7 +16160,7 @@ Lea County 003,12752.0,Valid,H4,4.91,Found,1999.0,32.04333,-103.15333,"(32.04333
 Leander,12753.0,Valid,L4,760.0,Found,1940.0,30.6,-97.9,"(30.6, -97.9)",Texas,United States
 Lebedinnyi,12754.0,Valid,Iron,410.0,Found,1925.0,55.95,125.4,"(55.95, 125.4)",Far Eastern Federal District,Russia
 Lefroy,12757.0,Valid,Iron,3.3,Found,1904.0,-40.73333,146.96667,"(-40.73333, 146.96667)",Tasmania,Australia
-Leikanger,12761.0,Valid,L6,1513.0,Found,1978.0,61.26667,6.85,"(61.26667, 6.85)",['Norway'],['Norway']
+Leikanger,12761.0,Valid,L6,1513.0,Found,1978.0,61.26667,6.85,"(61.26667, 6.85)",['Norway'],Norway
 Lemmon,12762.0,Valid,H5,6680.0,Found,1984.0,45.93333,-102.18333,"(45.93333, -102.18333)",South Dakota,United States
 Lenarto,12763.0,Valid,"Iron, IIIAB",108500.0,Found,1814.0,49.0,21.0,"(49.0, 21.0)",Eastern Slovakia,Slovakia
 Leon,12764.0,Valid,H5,30000.0,Found,1943.0,37.66667,-96.76667,"(37.66667, -96.76667)",Kansas,United States
@@ -18192,7 +18192,7 @@ Lucerne Valley 099,52531.0,Valid,CK5,3.2,Found,2008.0,34.48733,-116.96055,"(34.4
 Lucerne Valley 100,52532.0,Valid,CK5,0.8,Found,2008.0,34.48738,-116.96065,"(34.48738, -116.96065)",California,United States
 Lucerne Valley 101,52533.0,Valid,CK4,4.0,Found,2008.0,34.48598,-116.95593,"(34.48598, -116.95593)",California,United States
 Lucerne Valley 120,52465.0,Valid,L6,43.1,Found,2010.0,34.48388,-116.9501,"(34.48388, -116.9501)",California,United States
-Lucky Hill,14749.0,Valid,"Iron, IIIAB",20500.0,Found,1885.0,17.9,-77.63333,"(17.9, -77.63333)",['Jamaica'],['Jamaica']
+Lucky Hill,14749.0,Valid,"Iron, IIIAB",20500.0,Found,1885.0,17.9,-77.63333,"(17.9, -77.63333)",['Jamaica'],Jamaica
 Lueders,14750.0,Valid,"Iron, IAB-MG",35400.0,Found,1973.0,32.83611,-99.60417,"(32.83611, -99.60417)",Texas,United States
 Luis Lopez,14751.0,Valid,"Iron, IIIAB",7000.0,Found,1896.0,34.0,-106.96667,"(34.0, -106.96667)",New Mexico,United States
 Lujan,14752.0,Valid,Iron,50.0,Found,1878.0,-34.66667,-59.36667,"(-34.66667, -59.36667)",Buenos Aires,Argentina
@@ -19754,7 +19754,7 @@ Moriarty,16744.0,Valid,L,330.0,Found,1975.0,34.98333,-106.05,"(34.98333, -106.05
 Morito,16745.0,Valid,"Iron, IIIAB",10100000.0,Found,1600.0,27.05,-105.43333,"(27.05, -105.43333)",Chihuahua,Mexico
 Morland,16746.0,Valid,H6,295000.0,Found,1890.0,39.33333,-100.06667,"(39.33333, -100.06667)",Kansas,United States
 Morokweng,48656.0,Valid,LL6,750.0,Found,2004.0,-26.37247,23.52395,"(-26.37247, 23.52395)",North West,South Africa
-Morradal,16748.0,Valid,"Iron, ungrouped",2750.0,Found,1892.0,62.0,7.66667,"(62.0, 7.66667)",['Norway'],['Norway']
+Morradal,16748.0,Valid,"Iron, ungrouped",2750.0,Found,1892.0,62.0,7.66667,"(62.0, 7.66667)",['Norway'],Norway
 Morrill,16749.0,Valid,"Iron, IAB-an",1387.0,Found,1920.0,42.18333,-103.93333,"(42.18333, -103.93333)",Nebraska,United States
 Morristown,16750.0,Valid,Mesosiderite-A3,16300.0,Found,1887.0,36.2,-83.38333,"(36.2, -83.38333)",Tennessee,United States
 Morro do Rocio,16751.0,Valid,H5,369.0,Found,1928.0,-27.0,-51.0,"(-27.0, -51.0)",South Region,Brazil
@@ -19873,7 +19873,7 @@ Mundrabilla 019,16870.0,Valid,H4-5,50.0,Found,1991.0,-30.50583,127.43417,"(-30.5
 Mundrabilla 020,16871.0,Valid,Howardite,60.0,Found,1989.0,-30.83333,127.5,"(-30.83333, 127.5)",Western Australia,Australia
 Mundrabilla 021,54928.0,Valid,H4,13.0,Found,2010.0,-30.77972,127.52306,"(-30.77972, 127.52306)",Western Australia,Australia
 Mungindi,16872.0,Valid,"Iron, IAB-sLM",51300.0,Found,1897.0,-28.93333,148.95,"(-28.93333, 148.95)",Queensland,Australia
-Muonionalusta,16873.0,Valid,"Iron, IVA",230000.0,Found,1906.0,67.8,23.1,"(67.8, 23.1)",['Sweden'],['Sweden']
+Muonionalusta,16873.0,Valid,"Iron, IVA",230000.0,Found,1906.0,67.8,23.1,"(67.8, 23.1)",['Sweden'],Sweden
 Murchison Downs,16876.0,Valid,"Iron, ungrouped",33.0,Found,1925.0,-26.66667,119.0,"(-26.66667, 119.0)",Western Australia,Australia
 Murfreesboro,16877.0,Valid,"Iron, ungrouped",8600.0,Found,1847.0,35.83333,-86.41667,"(35.83333, -86.41667)",Tennessee,United States
 Murnpeowie,16878.0,Valid,"Iron, IC",1143000.0,Found,1909.0,-29.58333,139.9,"(-29.58333, 139.9)",South Australia,Australia
@@ -19900,7 +19900,7 @@ Narraburra,16915.0,Valid,"Iron, IIIAB",32200.0,Found,1855.0,-34.25,147.7,"(-34.2
 Naruna (a),16916.0,Valid,H4,672.3,Found,1935.0,30.95,-98.26667,"(30.95, -98.26667)",Texas,United States
 Naruna (b),16917.0,Valid,H4,513.3,Found,1942.0,30.95,-98.28333,"(30.95, -98.28333)",Texas,United States
 Naryilco,16918.0,Valid,LL6,27000.0,Found,1975.0,-28.6,141.15,"(-28.6, 141.15)",Queensland,Australia
-Näs,16919.0,Valid,LL6,375.0,Found,1907.0,59.18333,12.21667,"(59.18333, 12.21667)",['Sweden'],['Sweden']
+Näs,16919.0,Valid,LL6,375.0,Found,1907.0,59.18333,12.21667,"(59.18333, 12.21667)",['Sweden'],Sweden
 Nashville (iron),16920.0,Valid,Iron,18000.0,Found,1934.0,35.96667,-77.96667,"(35.96667, -77.96667)",North Carolina,United States
 Nashville (stone),16921.0,Valid,L6,25000.0,Found,1939.0,37.45,-98.41667,"(37.45, -98.41667)",Kansas,United States
 Navajo,16926.0,Valid,"Iron, IIAB",2184000.0,Found,1921.0,35.33333,-109.5,"(35.33333, -109.5)",Arizona,United States
@@ -20222,23 +20222,23 @@ Oroville,18032.0,Valid,"Iron, IIIAB",24500.0,Found,1893.0,39.68333,-121.63333,"(
 Oscuro Mountains,18035.0,Valid,"Iron, IAB-MG",3600.0,Found,1895.0,33.63333,-106.38333,"(33.63333, -106.38333)",New Mexico,United States
 Oshkosh,18036.0,Valid,H,144.8,Found,1961.0,44.07694,-88.56278,"(44.07694, -88.56278)",Wisconsin,United States
 Osseo,18037.0,Valid,"Iron, IAB complex",46300.0,Found,1931.0,47.63333,-80.08333,"(47.63333, -80.08333)",Ontario,Canada
-Österplana 048,56147.0,Relict,Relict OC,0.0,Found,2004.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],['Sweden']
-Österplana 049,56148.0,Relict,Relict OC,0.0,Found,2012.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],['Sweden']
-Österplana 050,56149.0,Relict,Relict OC,0.0,Found,2003.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],['Sweden']
-Österplana 051,56150.0,Relict,Relict OC,0.0,Found,2006.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],['Sweden']
-Österplana 052,56151.0,Relict,Relict OC,0.0,Found,2006.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],['Sweden']
-Österplana 053,56152.0,Relict,Relict OC,0.0,Found,2002.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],['Sweden']
-Österplana 054,56153.0,Relict,Relict OC,0.0,Found,2005.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],['Sweden']
-Österplana 055,56154.0,Relict,Relict OC,0.0,Found,2008.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],['Sweden']
-Österplana 056,56155.0,Relict,Relict OC,0.0,Found,2008.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],['Sweden']
-Österplana 057,56156.0,Relict,Relict OC,0.0,Found,2009.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],['Sweden']
-Österplana 058,56157.0,Relict,Relict OC,0.0,Found,2009.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],['Sweden']
-Österplana 059,56158.0,Relict,Relict OC,0.0,Found,2009.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],['Sweden']
-Österplana 060,56159.0,Relict,Relict OC,0.0,Found,2009.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],['Sweden']
-Österplana 061,56160.0,Relict,Relict OC,0.0,Found,2009.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],['Sweden']
-Österplana 062,56161.0,Relict,Relict OC,0.0,Found,2010.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],['Sweden']
-Österplana 063,56162.0,Relict,Relict OC,0.0,Found,2010.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],['Sweden']
-Österplana 064,56163.0,Relict,Relict OC,0.0,Found,2011.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],['Sweden']
+Österplana 048,56147.0,Relict,Relict OC,0.0,Found,2004.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],Sweden
+Österplana 049,56148.0,Relict,Relict OC,0.0,Found,2012.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],Sweden
+Österplana 050,56149.0,Relict,Relict OC,0.0,Found,2003.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],Sweden
+Österplana 051,56150.0,Relict,Relict OC,0.0,Found,2006.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],Sweden
+Österplana 052,56151.0,Relict,Relict OC,0.0,Found,2006.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],Sweden
+Österplana 053,56152.0,Relict,Relict OC,0.0,Found,2002.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],Sweden
+Österplana 054,56153.0,Relict,Relict OC,0.0,Found,2005.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],Sweden
+Österplana 055,56154.0,Relict,Relict OC,0.0,Found,2008.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],Sweden
+Österplana 056,56155.0,Relict,Relict OC,0.0,Found,2008.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],Sweden
+Österplana 057,56156.0,Relict,Relict OC,0.0,Found,2009.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],Sweden
+Österplana 058,56157.0,Relict,Relict OC,0.0,Found,2009.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],Sweden
+Österplana 059,56158.0,Relict,Relict OC,0.0,Found,2009.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],Sweden
+Österplana 060,56159.0,Relict,Relict OC,0.0,Found,2009.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],Sweden
+Österplana 061,56160.0,Relict,Relict OC,0.0,Found,2009.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],Sweden
+Österplana 062,56161.0,Relict,Relict OC,0.0,Found,2010.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],Sweden
+Österplana 063,56162.0,Relict,Relict OC,0.0,Found,2010.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],Sweden
+Österplana 064,56163.0,Relict,Relict OC,0.0,Found,2011.0,58.58333,13.43333,"(58.58333, 13.43333)",['Sweden'],Sweden
 Otchinjau,18041.0,Valid,"Iron, IVA",30000.0,Found,1919.0,-16.5,14.0,"(-16.5, 14.0)",Cunene Province,Angola
 Otinapa,18043.0,Valid,"Pallasite, PMG",8400.0,Found,1986.0,24.18333,-105.03333,"(24.18333, -105.03333)",Durango,Mexico
 Otis,18044.0,Valid,L6,2600.0,Found,1940.0,38.53333,-99.05,"(38.53333, -99.05)",Kansas,United States
@@ -21080,7 +21080,7 @@ Providence,18893.0,Valid,"Iron, IIIAB",6804.0,Found,1903.0,38.56667,-85.23333,"(
 Puente del Zacate,18894.0,Valid,"Iron, IIIAB",30790.0,Found,1904.0,27.86667,-101.5,"(27.86667, -101.5)",Coahuila,Mexico
 Puente-Ladron,18895.0,Valid,L,7.7,Found,1944.0,34.4,-106.85,"(34.4, -106.85)",New Mexico,United States
 Puerta de Arauco,18896.0,Valid,Iron,1533.0,Found,1904.0,-28.88333,-66.66667,"(-28.88333, -66.66667)",La Rioja,Argentina
-Puerto Libertad,18897.0,Valid,L,66.0,Found,1973.0,29.9,-112.68333,"(29.9, -112.68333)",['Mexico'],['Mexico']
+Puerto Libertad,18897.0,Valid,L,66.0,Found,1973.0,29.9,-112.68333,"(29.9, -112.68333)",['Mexico'],Mexico
 Puquios,18903.0,Valid,"Iron, IID",6580.0,Found,1885.0,-27.15,-69.91667,"(-27.15, -69.91667)",Atacama Region,Chile
 Purgatory Peak A77006,18904.0,Valid,"Iron, IAB-MG",19068.0,Found,1977.0,-77.33333,162.3,"(-77.33333, 162.3)",Antarctica II,Antarctica
 Purmela,32771.0,Valid,"Iron, IIF",4500.0,Found,1977.0,29.5,-98.05,"(29.5, -98.05)",Texas,United States
@@ -25213,7 +25213,7 @@ Rush Creek,22786.0,Valid,L6,9300.0,Found,1938.0,38.61667,-102.71667,"(38.61667, 
 Rushville,22787.0,Valid,L5,50.0,Found,1866.0,39.61667,-85.45,"(39.61667, -85.45)",Indiana,United States
 Russel Gulch,22788.0,Valid,"Iron, IIIAB",13200.0,Found,1863.0,39.8,-105.5,"(39.8, -105.5)",Colorado,United States
 Ryan Field,22789.0,Valid,H5,8.9,Found,1982.0,32.13333,-111.13333,"(32.13333, -111.13333)",Arizona,United States
-Ryder Gletcher,22790.0,Valid,L5,5288.0,Found,1988.0,81.16667,-49.0,"(81.16667, -49.0)",['Greenland'],['Greenland']
+Ryder Gletcher,22790.0,Valid,L5,5288.0,Found,1988.0,81.16667,-49.0,"(81.16667, -49.0)",['Greenland'],Greenland
 Sacramento Mountains,22794.0,Valid,"Iron, IIIAB",237200.0,Found,1890.0,32.91667,-104.66667,"(32.91667, -104.66667)",New Mexico,United States
 Sacramento Wash 001,34065.0,Valid,H4,98.9,Found,2003.0,34.75637,-114.23435,"(34.75637, -114.23435)",Arizona,United States
 Sacramento Wash 002,34066.0,Valid,H4,892.8,Found,2004.0,34.75635,-114.2343,"(34.75635, -114.2343)",Arizona,United States
@@ -25327,7 +25327,7 @@ Santa Rosalia,23168.0,Valid,"Pallasite, PMG",1631.0,Found,1950.0,27.33333,-112.3
 Santa Vitoria do Palmar,35478.0,Valid,L3,50400.0,Found,2003.0,-33.50944,-53.41083,"(-33.50944, -53.41083)",South Region,Brazil
 Santiago Papasquiero,23169.0,Valid,"Iron, ungrouped",119500.0,Found,1958.0,24.5,-106.0,"(24.5, -106.0)",Durango,Mexico
 São João Nepomuceno,23170.0,Valid,"Iron, IVA-an",15300.0,Found,1960.0,-21.55,-43.01667,"(-21.55, -43.01667)",Southeast Region,Brazil
-São Julião de Moreira,23172.0,Valid,"Iron, IIAB",162000.0,Found,1883.0,41.76611,-8.58361,"(41.76611, -8.58361)",['Portugal'],['Portugal']
+São Julião de Moreira,23172.0,Valid,"Iron, IIAB",162000.0,Found,1883.0,41.76611,-8.58361,"(41.76611, -8.58361)",['Portugal'],Portugal
 Saotome,23174.0,Valid,"Iron, IVA",10880.0,Found,1892.0,36.5,137.0,"(36.5, 137.0)",Chubu Region,Japan
 Sappa,23175.0,Valid,L6,5950.0,Found,1983.0,39.84433,-100.51,"(39.84433, -100.51)",Kansas,United States
 Sardis,23177.0,Valid,"Iron, IAB complex",800000.0,Found,1940.0,32.94889,-81.865,"(32.94889, -81.865)",Georgia,United States
@@ -26508,7 +26508,7 @@ Udall Park,24100.0,Valid,H4,150.0,Found,1985.0,32.25,-110.83333,"(32.25, -110.83
 Udeiát el Had,24102.0,Valid,L6,658.0,Found,1988.0,29.41667,20.5,"(29.41667, 20.5)",Al Wahat,Libya
 Uegit,24105.0,Valid,"Iron, IIIAB",252000.0,Found,1921.0,3.81667,43.33333,"(3.81667, 43.33333)",South West,Somalia
 Ularring,24107.0,Valid,L6,271.8,Found,1970.0,-29.96667,120.6,"(-29.96667, 120.6)",Western Australia,Australia
-Ultuna,24109.0,Valid,H,1900.0,Found,1944.0,59.81667,17.66667,"(59.81667, 17.66667)",['Sweden'],['Sweden']
+Ultuna,24109.0,Valid,H,1900.0,Found,1944.0,59.81667,17.66667,"(59.81667, 17.66667)",['Sweden'],Sweden
 Ulyanovsk,45816.0,Valid,H5,4680.0,Found,2006.0,54.364947,48.591447,"(54.364947, 48.591447)",Volga Federal District,Russia
 Ulysses,24110.0,Valid,H4,3900.0,Found,1927.0,37.6,-101.25,"(37.6, -101.25)",Kansas,United States
 Um Habib,24111.0,Valid,L6,696.0,Found,1960.0,21.5,50.5,"(21.5, 50.5)",Eastern Province,Saudi Arabia
@@ -26600,10 +26600,10 @@ Verkhnyi Saltov,31352.0,Valid,"Iron, IIIAB",9530.0,Found,2001.0,50.11112,36.8001
 Vermillion,24167.0,Valid,"Pallasite, ungrouped",34360.0,Found,1991.0,39.73633,-96.36133,"(39.73633, -96.36133)",Kansas,United States
 Vicenice,24170.0,Valid,"Iron, IID",4370.0,Found,1911.0,49.21667,15.8,"(49.21667, 15.8)",Southeast,Czechia
 Victoria West,24171.0,Valid,"Iron, IAB-sHL",2950.0,Found,1860.0,-31.7,23.75,"(-31.7, 23.75)",Western Cape,South Africa
-Viedma,24172.0,Valid,L5,6900.0,Found,2003.0,-41.06667,-62.85,"(-41.06667, -62.85)",['Argentina'],['Argentina']
+Viedma,24172.0,Valid,L5,6900.0,Found,2003.0,-41.06667,-62.85,"(-41.06667, -62.85)",['Argentina'],Argentina
 View Hill,24173.0,Valid,"Iron, IIIAB",33600.0,Found,1952.0,-43.32,172.06333,"(-43.32, 172.06333)",Canterbury,New Zealand
 Vigo Park,24175.0,Valid,L4,35.0,Found,1934.0,34.68333,-101.38333,"(34.68333, -101.38333)",Texas,United States
-Viksdalen,24176.0,Valid,Eucrite,470.0,Found,1992.0,61.03333,6.05,"(61.03333, 6.05)",['Norway'],['Norway']
+Viksdalen,24176.0,Valid,Eucrite,470.0,Found,1992.0,61.03333,6.05,"(61.03333, 6.05)",['Norway'],Norway
 Villa Coronado,24177.0,Valid,H5,2900.0,Found,1983.0,26.75,-105.25,"(26.75, -105.25)",Chihuahua,Mexico
 Villa Natamoros,24178.0,Valid,L3.7,156.0,Found,1987.0,26.75,-105.4,"(26.75, -105.4)",Chihuahua,Mexico
 Villedieu,24182.0,Valid,H4,14000.0,Found,1890.0,47.91667,4.35,"(47.91667, 4.35)",Metropolitan France,France
