@@ -1,7 +1,8 @@
+import math
+import sys
+
 import numpy as np
 import pygame
-import sys
-import math
 
 BLUE = (50, 50, 220)
 BLACK = (0, 0, 0)

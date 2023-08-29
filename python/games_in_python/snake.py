@@ -1,10 +1,10 @@
 # SNAKE Tutorial Python
 
-import math
 import random
-import pygame
 import tkinter as tk
 from tkinter import messagebox
+
+import pygame
 
 
 class Cube(object):
@@ -76,22 +76,22 @@ class Snake(object):
                         self.dirny = 1
                         self.turns[self.head.pos[:]] = [self.dirnx, self.dirny]
 
-            except pygame.error as err:
+            except pygame.error:
                 print("Game's video system not initialized")
 
         for i, c in enumerate(self.body):
             p = c.pos[:]
-            if p in self.turns:  # czy ciało jest tam gdzie głowa skręciła??
+            if p in self.turns:  # is the head in the same place where the head turned?
                 turn = self.turns[p]
                 c.move(turn[0], turn[1])
                 if i == len(self.body) - 1:
                     self.turns.pop(p)
-            else:  # granice mapy
+            else:  # borders of the map
                 if c.dirnx == -1 and c.pos[0] <= 0:
                     c.pos = (
                         c.rows - 1,
                         c.pos[1],
-                    )  # lecę w prawo i x=c.pos[0] <= 0 uderzam w granicę, więc zamieniam na (-1, y) (499, y)
+                    )  # to the right and x=c.pos[0] <= 0 hitting the border so change into: (-1, y) (499, y)
                 elif c.dirnx == 1 and c.pos[0] >= c.rows - 1:
                     c.pos = (0, c.pos[1])  # (500, y) => (0,y)
                 elif c.dirny == 1 and c.pos[1] >= c.rows - 1:
@@ -138,7 +138,7 @@ def drawGrid(w, rows, surface):
 
     x = 0
     y = 0
-    for l in range(rows):
+    for i in range(rows):
         x = x + sizeBtwn
         y = y + sizeBtwn
 
@@ -207,7 +207,6 @@ def main():
                 s.reset((10, 10))
                 break
         redrawWindow(win)  # window
-    pass
 
 
 main()

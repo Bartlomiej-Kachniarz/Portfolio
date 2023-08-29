@@ -1,6 +1,7 @@
-import pygame
 import random
 import sys
+
+import pygame
 
 # creating the data structure for pieces
 # setting up global vars

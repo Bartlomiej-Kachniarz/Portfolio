@@ -1,5 +1,8 @@
+import nest_asyncio
 import scrapy
-import logging
+from scrapy.utils.response import open_in_browser
+
+nest_asyncio.apply()
 
 
 class CountriesSpider(scrapy.Spider):
@@ -8,21 +11,22 @@ class CountriesSpider(scrapy.Spider):
     start_urls = ["https://www.worldometers.info/world-population/population-by-country/"]
 
     def parse(self, response):
-        title = response.xpath("//h1/text()").get()
+        # title = response.xpath("//h1/text()").get()
         countries = response.xpath("//td/a")
 
         for country in countries:
             name = country.xpath(".//text()").get()
             link = country.xpath(".//@href").get()
 
-            # absolute_url = f"https://www.worldometers.info{link}"
-            # absolute_url = response.urljoin(link)
+            absolute_url = f"https://www.worldometers.info{link}"
+            absolute_url = response.urljoin(link)
 
-            # yield scrapy.Request(url=absolute_url)
+            yield scrapy.Request(url=absolute_url)
 
             yield response.follow(url=link, callback=self.parse_country, meta={"country_name": name})
 
     def parse_country(self, response):
+        # open_in_browser(response)
         name = response.request.meta["country_name"]
         rows = response.xpath(
             "(//table[@class='table table-striped table-bordered table-hover table-condensed table-list'])[1]/tbody/tr"

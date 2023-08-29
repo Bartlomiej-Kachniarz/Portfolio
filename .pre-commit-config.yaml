@@ -1,0 +1,72 @@
+fail_fast: false
+default_stages:
+  - commit
+default_language_version:
+  python: python3.11
+repos:
+  - repo: local
+    hooks:
+      - id: pylint
+        name: pylint
+        entry: pylint
+        language: system
+        types: [python]
+        args: [
+            "-rn", #Only display messages
+            "--rcfile=.pylintrc", #Link to the .pylintrc config file
+            "--load-plugins=pylint.extensions.docparams", #Load extensions
+          ]
+        # verbose: true
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+      - id: trailing-whitespace
+        exclude_types: [text, jupyter, csv, geojson, binary, bitmap]
+      - id: end-of-file-fixer
+        exclude_types: [text, jupyter, csv, geojson, binary, bitmap]
+      - id: check-json
+        files: \.(json)$
+      - id: fix-encoding-pragma
+        args: [--remove]
+  - repo: https://github.com/psf/black
+    rev: 23.3.0
+    hooks:
+      - id: black
+        args: ["--config", ".pyproject.toml"]
+  - repo: https://github.com/adamchainz/blacken-docs
+    rev: "1.13.0"
+    hooks:
+      - id: blacken-docs
+        additional_dependencies:
+          - black==23.3.0
+  - repo: https://github.com/pycqa/isort
+    rev: 5.12.0
+    hooks:
+      - id: isort
+        args: ["--settings-path", ".pyproject.toml"]
+  - repo: https://github.com/pycqa/bandit
+    rev: 1.7.5
+    hooks:
+      - id: bandit
+        args: ["-ll", "-c", ".pyproject.toml"]
+        files: .py$
+        additional_dependencies: [".[toml]"]
+  - repo: https://github.com/pycqa/autoflake
+    rev: v2.1.1
+    hooks:
+      - id: autoflake
+  - repo: https://github.com/pycqa/flake8
+    rev: 6.0.0
+    hooks:
+      - id: flake8
+        additional_dependencies:
+          [
+            "flake8-coding~=1.3.2",
+            "flake8-debugger~=3.2.1",
+            "flake8-deprecated~=1.3",
+            "flake8-docstrings~=1.5.0",
+            "flake8-pep3101~=1.2.1",
+            "flake8-polyfill~=1.0.2",
+            "flake8-print~=3.1.4",
+            "flake8-string-format~=0.2.3",
+          ]

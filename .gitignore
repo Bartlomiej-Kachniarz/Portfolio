@@ -15,6 +15,8 @@ __pycache__/
 
 .metals/
 
+PythonImportHelper-v2-Completion.json
+
 # Distribution / packaging
 .Python
 build/
@@ -167,4 +169,9 @@ cython_debug/
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
-#.idea/
+.idea/
+
+# VSCode configuration
+.vscode/
+
+*.bin

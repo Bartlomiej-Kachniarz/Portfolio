@@ -1,0 +1,27 @@
+[build-system]
+# Minimum requirements for the build system to execute.
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.black]
+line-length = 120
+target-version = ['py311']
+include = '\.pyi?$'
+
+
+[tool.isort]
+profile = "black"
+line_length = 120
+multi_line_output = 3
+include_trailing_comma = "True"
+force_grid_wrap = 0
+use_parentheses = "True"
+ensure_newline_before_comments = "True"
+
+
+[tool.bandit]
+exclude_dirs = ["tests"]
+tests = ["B201", "B301"]
+skips = ["B101", "B601"] 
+# B101 test of use of assert.
+# B601 test of shell injection within Paramiko
