@@ -175,3 +175,6 @@ cython_debug/
 .vscode/
 
 *.bin
+
+# openai.key:
+/machine_learning/youtube_llm/openai_key.txt
