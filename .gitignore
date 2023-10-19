@@ -178,3 +178,11 @@ cython_debug/
 
 # openai.key:
 /machine_learning/youtube_llm/openai_key.txt
+
+
+# Airflow
+*.err
+*.*-e
+*.pid
+airflow/logs/
+airflow.db
