@@ -186,3 +186,5 @@ cython_debug/
 *.pid
 airflow/logs/
 airflow.db
+latest
+*.py.log
