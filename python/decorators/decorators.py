@@ -17,15 +17,19 @@ def do_twice(func):
 
 def time_this_func(func):
     """Print the time this function takes to run."""
+    n = 100
+    results = []
 
     @functools.wraps(func)
     def wrapper_time_this_function(*args, **kwargs):
-        start = time.perf_counter()
-        result = func(*args, **kwargs)
-        end = time.perf_counter()
+        for trial in range(n):
+            start = time.perf_counter()
+            result = func(*args, **kwargs)
+            end = time.perf_counter()
 
-        diff = end - start
-        print(f"The {func.__name__!r} took {diff:.4f} seconds to complete. \n")
+            diff = end - start
+            results.append(diff)
+        print(f"The {func.__name__!r}() took on average: {sum(results)/n:.4f} seconds to complete. \n")
         return result
 
     return wrapper_time_this_function
@@ -42,7 +46,7 @@ def debug_this_func(func):
         signature = ", ".join(args_representation + kwargs_representation)
         print(f"Calling: {func.__name__}({signature})")
         result = func(*args, **kwargs)
-        print(f"'{func.__name__}' returned: {result!r}.\n")  # !r means that repr() is used
+        print(f"'{func.__name__}()' returned: {result!r}.\n")  # !r means that repr() is used
         return result
 
     return wrapper_debug_this_function
@@ -75,7 +79,9 @@ def repeat(_func=None, *, num_times=3):
         @functools.wraps(func)
         def wrapper_decorator_repeat(*args, **kwargs):
             for _ in range(num_times):
+                print(f"Repeating function: {func.__name__}()")
                 result = func(*args, **kwargs)
+                print("\n")
             return result
 
         return wrapper_decorator_repeat
@@ -98,10 +104,10 @@ def slow_down_by(_func=None, *, sleep_time=1):
 
         return wrapper_slow_down_by
 
-    if _func is not None:
-        return decorator_slow_down_by(_func)
-    else:
+    if _func is None:
         return decorator_slow_down_by
+    else:
+        return decorator_slow_down_by(_func)
 
 
 # Stateful decorator
@@ -111,7 +117,7 @@ def count_calls(func):
     @functools.wraps(func)
     def wrapper_count_calls(*args, **kwargs):
         wrapper_count_calls.num_calls += 1
-        print(f"Function: {func.__name__}. Call number: {wrapper_count_calls.num_calls}.")
+        print(f"Function: {func.__name__}() \n Call number: {wrapper_count_calls.num_calls}. \n")
         return func(*args, **kwargs)
 
     wrapper_count_calls.num_calls = 0
@@ -127,5 +133,5 @@ class Counter:
 
     def __call__(self, *args, **kwargs):
         self.counter += 1
-        print(f"Call number: {self.counter} of function {self.func.__name__}.")
+        print(f"Call number: {self.counter} of function {self.func.__name__}()")
         return self.func(*args, **kwargs)

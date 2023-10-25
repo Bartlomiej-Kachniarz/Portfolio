@@ -16,17 +16,17 @@ from decorators import (
 @do_twice
 def add_two_numbers(a, b):
     sum = a + b
-    print(f"Adding two numbers: {a} and {b} = {sum} \n")
-    return sum
+    return f"Adding two numbers: {a} and {b} = {sum} \n"
+    # return sum
 
 
 @time_this_func
 def sleepy_function(cycles):
     for _ in range(cycles):
-        sum([i for i in range(10000)])
+        return sum([i for i in range(10000)])
 
 
-@slow_down_by(1.5)
+@slow_down_by(sleep_time=2)
 @debug_this_func
 def introduce_yourself(name: str, age: int, nationality: str):
     if age >= 18:
@@ -38,7 +38,7 @@ def introduce_yourself(name: str, age: int, nationality: str):
 math.factorial = debug_this_func(math.factorial)
 
 
-def approximating_number_e(terms=10):
+def approximating_number_e(terms=7):
     sum = 0
     for n in range(terms):
         sum = sum + (1 / math.factorial(n))
@@ -63,8 +63,8 @@ def logical_and(a=True, b=True):
         print(False)
 
 
-@count_calls
 @repeat
+@Counter
 def logical_or(a=True, b=True):
     if a or b:
         print(True)
