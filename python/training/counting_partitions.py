@@ -46,20 +46,26 @@ def count_partitions(nmbr):
 
 
 if __name__ == "__main__":
+    print(340)
     print(find_binary_repr(340))
     print(count_partitions(340))
 
+    print(67)
     print(find_binary_repr(67))
     print(count_partitions(67))
 
+    print(245)
     print(find_binary_repr(245))
     print(count_partitions(245))
 
+    print(928050254646230)
     print(find_binary_repr(928050254646230))
     print(count_partitions(928050254646230))
 
+    print(102)
     print(find_binary_repr(102))
     print(count_partitions(102))
 
+    print(20024)
     print(find_binary_repr(20024))
     print(count_partitions(20024))
