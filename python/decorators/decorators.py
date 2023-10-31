@@ -63,7 +63,7 @@ def slow_down_this_func(func):
     return wrapper_slow_down_this_function
 
 
-# Plug-in architecture example:
+# Plug-in architecture example START:
 PLUGINS = dict()
 
 
@@ -71,6 +71,9 @@ def register(func):
     """Register a function as a plugin"""
     PLUGINS[func.__name__] = func
     return func
+
+
+# Plug-in architecture example END:
 
 
 # A decorator that can take an argument but doesn't need to.

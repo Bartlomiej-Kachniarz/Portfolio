@@ -21,5 +21,5 @@ with DAG(
     default_args=default_args,
 ) as dag:
     task_1 = BashOperator(
-        task_id="one_and_only_task", bash_command='echo "Hello World!" > /temp/hello-world.txt', dag=dag
+        task_id="one_and_only_task", bash_command='echo "Hello World!" > /tmp/hello-world.txt', dag=dag
     )
