@@ -189,3 +189,6 @@ airflow.db
 latest*
 *.py.log
 *.db-journal
+
+# SQL training files
+Demo Database/
