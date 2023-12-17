@@ -190,5 +190,5 @@ latest*
 *.py.log
 *.db-journal
 
-# SQL training files
-Demo Database/
+# Exercise training files
+Exercise Files/
