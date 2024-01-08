@@ -1,15 +1,6 @@
 import math
 
-from decorators import (
-    Counter,
-    count_calls,
-    debug_this_func,
-    do_twice,
-    repeat,
-    slow_down_by,
-    slow_down_this_func,
-    time_this_func,
-)
+from decorators import Counter, debug_this_func, do_twice, repeat, slow_down_by, slow_down_this_func, time_this_func
 
 
 @time_this_func
@@ -31,8 +22,7 @@ def sleepy_function(cycles):
 def introduce_yourself(name: str, age: int, nationality: str):
     if age >= 18:
         return f"{name} who is {nationality} is already an adult!"
-    else:
-        return f"{name} who is {nationality} is still a child."
+    return f"{name} who is {nationality} is still a child."
 
 
 math.factorial = debug_this_func(math.factorial)

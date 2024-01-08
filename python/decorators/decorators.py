@@ -91,8 +91,7 @@ def repeat(_func=None, *, num_times=3):
 
     if _func is None:
         return decorator_repeat
-    else:
-        return decorator_repeat(_func)
+    return decorator_repeat(_func)
 
 
 # refactored slow_down_function
@@ -109,8 +108,7 @@ def slow_down_by(_func=None, *, sleep_time=1):
 
     if _func is None:
         return decorator_slow_down_by
-    else:
-        return decorator_slow_down_by(_func)
+    return decorator_slow_down_by(_func)
 
 
 # Stateful decorator
