@@ -14,15 +14,33 @@ In case of any questions please contact me:
 
 ```bash
 .
+├── .dvc
+│   ├── .gitignore
+│   └── config
 ├── data_engineering
-│   └── airflow
-│       ├── dags
-│       │   └── process-employees.py
-│       ├── airflow.cfg
-│       ├── airflow.sh
-│       ├── docker-compose.yaml
-│       ├── install_airflow.sh
-│       └── webserver_config.py
+│   ├── airflow
+│   │   ├── dags
+│   │   │   ├── basic_etl_dag.py
+│   │   │   ├── etl_1_extract_dag.py
+│   │   │   ├── etl_2_transform_dag.py
+│   │   │   ├── etl_3_load_dag.py
+│   │   │   ├── one_task_dag.py
+│   │   │   └── two_task_dag.py
+│   │   ├── lab
+│   │   │   └── db
+│   │   │       ├── initialize_top_level_domains_db.py
+│   │   │       └── sqlite_initialize_example_db.py
+│   │   ├── airflow.cfg
+│   │   ├── airflow.sh
+│   │   ├── docker-compose.yaml
+│   │   ├── install_airflow.sh
+│   │   └── webserver_config.py
+│   └── sql
+│       └── postgre_sql
+│           └── Advanced SQL AppDev
+│               ├── Database Errors.ipynb
+│               ├── Parameterized Query Challenge Solution.ipynb
+│               └── SQL Alchemy quering.ipynb
 ├── machine_learning
 │   ├── meteorite_landings
 │   │   └── meteorite_landings_analysis.ipynb
@@ -41,6 +59,10 @@ In case of any questions please contact me:
 │   └── youtube_llm
 │       └── youtube_llm.ipynb
 ├── python
+│   ├── decorators
+│   │   ├── decorators.py
+│   │   ├── decorators_calls.py
+│   │   └── plugins_calls.py
 │   ├── design_patterns
 │   │   ├── abstract_factory
 │   │   │   └── car_app.py
@@ -54,6 +76,9 @@ In case of any questions please contact me:
 │   │   ├── snake.py
 │   │   └── tetris.py
 │   ├── training
+│   │   ├── tests
+│   │   │   └── test_counting_partitions.py
+│   │   ├── counting_partitions.py
 │   │   ├── matplotlib.ipynb
 │   │   ├── numpy.ipynb
 │   │   └── pandas.ipynb
@@ -95,6 +120,7 @@ In case of any questions please contact me:
 │               │   └── countries.py
 │               ├── runner.py
 │               └── runner_2.py
+├── .dvcignore
 ├── .gitignore
 ├── .pre-commit-config.yaml
 ├── .pylintrc
