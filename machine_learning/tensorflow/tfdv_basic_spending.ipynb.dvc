@@ -1,0 +1,5 @@
+outs:
+- md5: aa49b25e005c63f71278e7a307068a0b
+  size: 83978
+  hash: md5
+  path: tfdv_basic_spending.ipynb

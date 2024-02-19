@@ -1,0 +1,5 @@
+outs:
+- md5: 4ccd994ddafb679771d08271ef7aed44
+  size: 198
+  hash: md5
+  path: etl.py
