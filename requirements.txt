@@ -63,7 +63,7 @@ constantly==15.1.0
 contourpy==1.1.1
 cron-descriptor==1.4.0
 croniter==2.0.1
-cryptography==41.0.5
+cryptography==42.0.4
 cssselect==1.2.0
 cycler==0.12.1
 d==0.2.2
