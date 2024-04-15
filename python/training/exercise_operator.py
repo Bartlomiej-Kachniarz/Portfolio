@@ -1,12 +1,12 @@
 class ListManipulator:
     def __init__(self) -> None:
-        self.calculation_list = []
+        self.calculation_list: list = []
         self.result = 0
 
     def execute(self, list_of_ops: list[str]) -> int:
         for operation in list_of_ops:
             try:
-                self.result = self.result + int(operation)
+                self.result: int = self.result + int(operation)
                 self.calculation_list.append(int(operation))
             except ValueError:
                 pass
@@ -20,16 +20,16 @@ class ListManipulator:
         print(self.calculation_list)
         return self.result
 
-    def c_operation(self):
+    def c_operation(self) -> None:
         last_value = self.calculation_list.pop()
         self.result -= last_value
 
-    def d_operation(self):
+    def d_operation(self) -> None:
         last_value = self.calculation_list[-1] * 2
         self.calculation_list.append(last_value)
         self.result += last_value
 
-    def plus_operation(self):
+    def plus_operation(self) -> None:
         value = self.calculation_list[-1] + self.calculation_list[-2]
         self.calculation_list.append(value)
         self.result += value
@@ -37,5 +37,5 @@ class ListManipulator:
 
 if __name__ == "__main__":
     operations = ListManipulator()
-    result = operations.execute(["5", "-2", "4", "C", "D", "9", "+", "+"])
+    result: int = operations.execute(list_of_ops=["5", "-2", "4", "C", "D", "9", "+", "+"])
     print(result)
