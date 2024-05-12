@@ -134,7 +134,7 @@ grandalf==0.8
 graphviz==0.20.1
 grpcio==1.59.0
 gto==1.6.1
-gunicorn==21.2.0
+gunicorn==22.0.0
 h11==0.14.0
 h5py==3.10.0
 httpcore==0.18.0
