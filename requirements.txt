@@ -158,7 +158,7 @@ itemloaders==1.1.0
 iterative-telemetry==0.0.8
 itsdangerous==2.1.2
 jedi==0.19.1
-Jinja2==3.1.2
+Jinja2==3.1.4
 jmespath==1.0.1
 joblib==1.3.2
 jsonschema==4.19.1
