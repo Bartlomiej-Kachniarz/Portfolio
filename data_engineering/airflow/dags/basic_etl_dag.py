@@ -1,4 +1,5 @@
 """Basic ETL DAG"""
+
 import os
 from datetime import date, datetime
 

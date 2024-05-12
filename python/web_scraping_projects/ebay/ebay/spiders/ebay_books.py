@@ -11,7 +11,8 @@ class EbayBooksSpider(scrapy.Spider):
             url="https://www.ebay.com/b/Textbooks/1105/bn_226752",
             callback=self.parse,
             headers={
-                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) \
+                    AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
             },
         )
 
@@ -24,14 +25,17 @@ class EbayBooksSpider(scrapy.Spider):
             ).get()
             if not current_price:
                 current_price = product.xpath(
-                    ".//div[@class='s-item__detail s-item__detail--primary']/span[@class='s-item__price']/span[@class='ITALIC']/text()"
+                    """.//div[@class='s-item__detail s-item__detail--primary']
+                    /span[@class='s-item__price']/span[@class='ITALIC']/text()"""
                 ).get()
             original_price = product.xpath(
-                ".//div[@class='s-item__detail s-item__detail--primary']/span[@class='s-item__trending-price']/span[@class='STRIKETHROUGH']/text()"
+                """.//div[@class='s-item__detail s-item__detail--primary']/
+                span[@class='s-item__trending-price']/span[@class='STRIKETHROUGH']/text()"""
             ).get()
             shipping = product.xpath(".//div/div/span[@class='s-item__shipping s-item__logisticsCost']/text()").get()
             product_options = product.xpath(
-                ".//div[@class='s-item__detail s-item__detail--primary']/span[@class='s-item__purchase-options s-item__purchaseOptions']/text()"
+                """.//div[@class='s-item__detail s-item__detail--primary']/
+                span[@class='s-item__purchase-options s-item__purchaseOptions']/text()"""
             ).get()
             user_agent = response.request.headers["User-Agent"]
 
@@ -52,6 +56,7 @@ class EbayBooksSpider(scrapy.Spider):
                 url=next_page,
                 callback=self.parse,
                 headers={
-                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)\
+                         AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
                 },
             )

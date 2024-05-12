@@ -13,9 +13,13 @@ __pycache__/
 # C extensions
 *.so
 
+# scala
 .metals/
 
 PythonImportHelper-v2-Completion.json
+scala-cli.json
+ide-inputs.json
+ide-options-v2.json
 
 # Distribution / packaging
 .Python
@@ -192,3 +196,12 @@ latest*
 
 # Exercise training files
 Exercise Files
+
+# PySpark
+*.orc/
+*.csv/
+*.parquet/
+
+*.dvc
+*.dot
+config.json

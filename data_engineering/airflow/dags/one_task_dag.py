@@ -1,4 +1,5 @@
 """Dag doing only one task"""
+
 from datetime import datetime
 
 from airflow import DAG
