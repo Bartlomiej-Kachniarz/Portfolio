@@ -9,7 +9,7 @@ amqp==5.2.0
 annotated-types==0.6.0
 antlr4-python3-runtime==4.9.3
 anyio==4.0.0
-apache-airflow==2.7.2
+apache-airflow==2.9.2
 apache-airflow-providers-common-sql==1.8.0
 apache-airflow-providers-ftp==3.6.0
 apache-airflow-providers-http==4.6.0
