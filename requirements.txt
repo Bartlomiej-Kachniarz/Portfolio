@@ -367,5 +367,5 @@ xxhash==3.4.1
 yarl==1.9.2
 youtube-transcript-api==0.6.1
 zc.lockfile==3.0.post1
-zipp==3.17.0
+zipp==3.19.1
 zope.interface==6.1
