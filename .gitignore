@@ -209,3 +209,4 @@ config.json
 # Secrets:
 openai_key.txt
 machine_learning/NLP/youtube_llm/openai_key.txt
+mateusz/
