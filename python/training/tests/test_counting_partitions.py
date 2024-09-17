@@ -1,13 +1,12 @@
 import os
 import sys
 
-import pytest
-
 # This is a bypass to import a decorator from another module:
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.dirname(SCRIPT_DIR))
 
+# pylint: disable=wrong-import-position
 from counting_partitions import count_partitions  # noqa: E402
 
 
