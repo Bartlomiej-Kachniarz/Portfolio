@@ -15,6 +15,7 @@ __pycache__/
 
 # scala
 .metals/
+.scala-build
 
 PythonImportHelper-v2-Completion.json
 scala-cli.json
@@ -202,6 +203,9 @@ Exercise Files
 *.csv/
 *.parquet/
 
+.dvc
+.dvcignore
+.bsp
 *.dvc
 *.dot
 config.json
