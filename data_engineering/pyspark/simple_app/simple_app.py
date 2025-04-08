@@ -1,6 +1,6 @@
 from pyspark.sql import SparkSession
 
-log_file = "/opt/homebrew/Cellar/apache-spark/3.5.1/README.md"
+log_file = "/opt/homebrew/Cellar/apache-spark/3.5.2/README.md"
 spark = SparkSession.builder.appName("Simple Application").getOrCreate()
 log_data = spark.read.text(log_file).cache()
 

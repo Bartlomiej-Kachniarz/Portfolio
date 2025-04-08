@@ -1,14 +1,16 @@
+import os
+
 import pyspark.sql.functions as F
 from pyspark.sql import SparkSession, Window
 
 spark = SparkSession.builder.appName("Python Spark SQL").config("spark.driver.extraClassPath", "<path>").getOrCreate()
 
-log_file = "/opt/homebrew/Cellar/apache-spark/3.5.1/README.md"
+log_file = "/opt/homebrew/Cellar/apache-spark/3.5.2/README.md"
 log_data = spark.read.text(log_file).cache()
 
-
+current_dir = os.path.dirname(__file__)
 df = (
-    spark.read.csv("Exercise Files/datasets/reported-crimes.csv", header=True)
+    spark.read.csv(current_dir + "/Exercise Files/datasets/reported-crimes.csv", header=True)
     .withColumn("Date", F.to_timestamp(F.col("Date"), "MM/dd/yyyy hh:mm:ss a"))
     .filter(F.col("Date") <= F.lit("2018-11-11"))
 )

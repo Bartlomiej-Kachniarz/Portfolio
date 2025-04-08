@@ -217,3 +217,5 @@ mateusz/
 
 # Data:
 *.data
+my_runs/
+*.keras

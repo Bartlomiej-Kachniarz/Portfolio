@@ -32,6 +32,20 @@ class Preprocessing:
         self.df = df
 
     def transform(self, df):
+        pass
+
+
+class Preprocessing6:
+    def __init__(self, df: list) -> None:
+        self.df = df
+
+    def transform(self, df):
+        pass
+
+
+class Preprocessing1(Preprocessing):
+
+    def transform(self, df):
         try:
             df = df.dropna()
         except ValueError:
